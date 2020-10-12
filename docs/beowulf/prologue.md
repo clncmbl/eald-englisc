@@ -9,8 +9,10 @@ Hwæt! - What! (in place of Listen! or Hark!)
 Wé Gárdena in géardagum, þéodcyninga, þrym gefrúnon, hú ðá æþelingas ellen fremedon.
 Wé Gárdena þrym gefrúnon.
 We heard of the glory of the Spear-Danes.
-Gar-Dena - Spear-Danes (genitive plural)
-þrym - might or glory (se þrymm)
+Gar-Dena
+: Spear-Danes (genitive plural)
+þrym
+: might or glory (se þrymm)
 gefrúnon - heard of (gefrinan; indicative plural preterite)
 
 ðá æþelingas ellen fremedon
