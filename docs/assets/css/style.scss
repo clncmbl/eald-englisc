@@ -1,9 +1,9 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
-// style.css
+// style.scss
 html {
   background-color: yellow;
 }
