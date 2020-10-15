@@ -26,7 +26,7 @@ The following were useful vocabulary references:
 
 ### Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
 #### Simple clauses
-wē Gār-Dena þrym gefrūnon\
+Wē Gār-Dena þrym gefrūnon\
 We heard of the glory of the Spear-Danes.
 
 Gār-Dena
@@ -52,3 +52,25 @@ ellen
 
 fremedon
 : displayed, performed (fremman; preterite plural)
+
+
+Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
+
+We of Spear-Danes in yore-days, of nation-kings, glory heard; how the princes courage showed.
+
+We heard of the glory of the Spear-Danes in the olden days, of kings of nations, how the princes showed courage.
+
+geār-dagum
+: olden days (year or yore followed by day in dative plural)
+
+þēod-cyninga
+: of kings of nations (nation king; þēod is nation and cyninga is king in genitive plural])
+
+hū
+: how
+
+Re-ordering to resemble ModE prose:
+Wē gefrūnon þrym Gār-Dena in geār-dagum, þēod-cyninga, hū þā æðelingas fremedon ellen.
+
+
+
