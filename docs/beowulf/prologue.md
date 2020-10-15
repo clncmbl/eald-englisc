@@ -1,10 +1,11 @@
 Most of the Old English text is from https://www.gutenberg.org/files/9701/9701-0.txt.  (Changing from https://heorot.dk/beowulf-rede-text.html.)
 
 The following were useful vocabulary references:
-* Bosworth–Toller Anglo-Saxon Dictionary (https://bosworthtoller.com/)
+* [Bosworth-Toller Anglo-Saxon Dictionary](https://bosworthtoller.com/)
 * https://en.wiktionary.org/
-* https://hord.ca/projects/eow/
+* [EOW: Englisc Onstigende Wordbōc](https://hord.ca/projects/eow/)
 
+Lines 1-12:
 
      Hwæt! wē Gār-Dena      in geār-dagum
      þēod-cyninga      þrym gefrūnon,
@@ -17,10 +18,6 @@ The following were useful vocabulary references:
      oð þæt him ǣghwylc      þāra ymb-sittendra
      ofer hron-rāde      hȳran scolde,
      gomban gyldan:      þæt wæs gōd cyning!
-
-
-
-Seems easiest to copy and paste from here because it has diacritics.  The downside is that the dual language layout generally means copying line by line: https://heorot.dk/beowulf-rede-text.html.  This one might be better to use: https://www.gutenberg.org/files/9701/9701-0.txt
 
 
 Hwæt! - What! (in place of Listen! or Hark!)
