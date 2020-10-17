@@ -110,7 +110,7 @@ eorl
 : "eorl" is typically edited to either Eorle, the Eruli tribe of Denmark, or eorlas, a noble rank. (se eorl; accusative plural)
 
 
-### syððan ǣrest wearð fēa-sceaft funden: hē þæs frōfre gebād, wēox under wolcnum, weorð-myndum ðāh, oð þæt him ǣghwylc þāra ymb-sittendra ofer hron-rāde hȳran scolde, gomban gyldan:      
+### syððan ǣrest wearð fēa-sceaft funden: hē þæs frōfre gebād, wēox under wolcnum, weorð-myndum ðāh,
 
 syððan
 : since (conjugation)
@@ -118,33 +118,56 @@ syððan
 ǣrest
 : first, at first (adverb)
 
-wearð - came to be (weorþan; 3rd person singular past)
-féasceaft - destitute, miserable (adjective)
-funden - found (findan; past participle)
-hé - he
-þæs - that (genitive singular), OR afterwards (adverb, þæs in en.wiktionary.org )
-frófre - consolation, comfort (frōfor, usually fem. singular G.D.I.A.) What preposition for translation?
-gebád - experienced (gebīdan, 3rd [and 1st] person singular past)
+wearð
+: came to be (weorþan; 3rd person singular past)
 
-hé þæs frófre gebád;
-He ðæs frófre gebád - he from that [time] met with comfort,  (from http://bosworth.ff.cuni.cz/013666)
+fēa-sceaft
+: destitute, miserable (adjective)
+
+funden
+: found (findan; past participle)
+
+hē
+: he
+
+þæs
+: that (genitive singular), OR afterwards (adverb, þæs in en.wiktionary.org )
+
+frōfre
+: consolation, comfort (frōfor, usually fem. singular G.D.I.A.) What preposition for translation?
+
+gebād
+: experienced (gebīdan, 3rd [and 1st] person singular past)
+
+hē þæs frōfre gebād - he from that [time] met with comfort,  (from http://bosworth.ff.cuni.cz/013666)
+
+wēox
+: grew (weaxan, 3rd [and 1st] person singular past)
+
+under
+: under (takes dative)
+
+wolcnum
+: clouds (seo wolcen or wolcn, plural dative; under wolcnum: under heaven?)
+
+weorð-myndum
+: (with?) honor, glory (seo weorð-mynd, plural dative; "worth" comes from weorð)
+
+ðāh
+: prospered (þeon,  3rd [and 1st] person singular past)
 
 
+### oð þæt him ǣghwylc þāra ymb-sittendra ofer hron-rāde hȳran scolde, gomban gyldan:      
 
-wéox - grew (weaxan, 3rd [and 1st] person singular past) 
-under - under (takes dative)
-wolcnum - clouds (seo wolcen or wolcn, plural dative; under wolcnum: under heaven?)
-weorðmyndum - (with?) honor, glory (seo weorðmynd, plural dative; "worth" comes from weorþ)
-þáh - prospered (þeon,  3rd [and 1st] person singular past)
 
 oð þæt or oðþæt - until (conjunction; oð alone is typically "until" or "up to", etc., as a preposition) 
 him - to him (dative masc. or neut. personal 3rd person pronoun)
-æghwylc - every, each (pronoun, nominative)
-þára - the, those (genitive plural)
-ymbsittendra - neighboring people (se ymbsittend, genitive plural)
+ǣghwylc - every, each (pronoun, nominative)
+þāra - the, those (genitive plural)
+ymb-sittendra - neighboring people (se ymbsittend, genitive plural)
 ofer - over, beyond, across (+ dative for location, + accusative for motion)
-hronráde - "whale-road", sea, ocean (seo hronrad or hranrad; acc, gen, dat sing)
-hýran - to obey, listen (to) (when +dative)  (hyran or hieran)
+hron-rāde - "whale-road", sea, ocean (seo hronrad or hranrad; acc, gen, dat sing)
+hȳran - to obey, listen (to) (when +dative)  (hyran or hieran)
 scolde - had (to), must or should (but past) (sculan; 1st, 3rd person past)
 gomban - tribute (seo gombe; nominative plural or accusative singular)
 gyldan - to pay (alternative form of gieldan)
@@ -155,8 +178,6 @@ Oft Scyld Scéfing sceaþena þréatum monegum mǣgþum meodosetla oftéah, egso
 
 Re-ordering to resemble ModE prose:
 Oft Scyld Scéfing meodosetla oftéah sceaþena þréatum monegum mǣgþum, egsode eorlas.
-
-
 
 
 ### Þæt wæs gōd cyning!
