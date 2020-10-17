@@ -27,7 +27,8 @@ The following were useful vocabulary references:
 ### Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
 #### Simple clauses
 Wē Gār-Dena þrym gefrūnon\
-We heard of the glory of the Spear-Danes.
+We heard of the glory of the Spear-Danes.\
+MAYBE: We have heard of the glory of the Spear-Danes' nation-kings.
 
 Gār-Dena
 : Spear-Danes (genitive plural)
@@ -56,9 +57,11 @@ fremedon
 
 Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
 
-We of Spear-Danes in yore-days, of nation-kings, glory heard; how the princes courage showed.
+We of Spear-Danes in yore-days, of nation-kings, glory heard; how the princes courage showed.\
+MAYBE: We of Spear-Danes' of yore-days nation-king's glory have heard; how the princes courage showed.
 
-We heard of the glory of the Spear-Danes in the olden days, of kings of nations, how the princes showed courage.
+We heard of the glory of the Spear-Danes in the olden days, of kings of nations, how the princes showed courage.\
+MAYBE: We have heard of the glory of the kings of the Spear-Danes of olden days, how the princes showed courage.
 
 geār-dagum
 : olden days (year or yore followed by day in dative plural)
@@ -70,7 +73,8 @@ hū
 : how
 
 Re-ordering to resemble ModE prose:\
-Wē gefrūnon þrym Gār-Dena in geār-dagum, þēod-cyninga, hū þā æðelingas fremedon ellen.
+Wē gefrūnon þrym Gār-Dena in geār-dagum, þēod-cyninga, hū þā æðelingas fremedon ellen.\
+MAYBE: Wē gefrūnon Gār-Dena in geār-dagum þēod-cyninga þrym, hū þā æðelingas ellen fremedon.
 
 
 ### Oft Scyld Scēfing sceaðena þrēatum, monegum mǣgðum meodo-setla oftēah.
