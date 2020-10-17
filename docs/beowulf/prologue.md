@@ -69,35 +69,55 @@ geār-dagum
 hū
 : how
 
-Re-ordering to resemble ModE prose:
+Re-ordering to resemble ModE prose:\
 Wē gefrūnon þrym Gār-Dena in geār-dagum, þēod-cyninga, hū þā æðelingas fremedon ellen.
 
 
 ### Oft Scyld Scēfing sceaðena þrēatum, monegum mǣgðum meodo-setla oftēah.
-Often Scyld Scefing from enemy armies, from many nations, mead-benches took.
+Often Scyld Scefing from enemy armies, from many nations, mead-benches took.\
 Often Scyld Scefing took mead benches from enemy armies, from many nations.
 
-Re-ordering to resemble ModE prose:
-Oft Scyld Scéfing oftéah meodosetla sceaþena þréatum, monegum mǣgþum.
+Re-ordering to resemble ModE prose:\
+Oft Scyld Scēfing oftēah meodo-setla sceaðena þrēatum, monegum mǣgðum.
 
-oft - often
-sceaþena - (of) enemies (sceaþa, masc.; genitive plural)
-þréatum - (from) armies (þréat, masc.; dative plural)
-monegum - many (manig; adjective; dative plural)
-mǣgþum - (from) tribes, nations (mǣgþ, fem.; dative plural)
-meodo-setla - mead benches (medusetl, neut.; medu is mead and setl is seat; genitive plural)
-oftéah - take away (oftéon, téon can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past)
+oft
+: often
+
+sceaðena
+: (of) enemies (sceaþa, masc.; genitive plural)
+
+þrēatum
+: (from) armies (þréat, masc.; dative plural)
+
+monegum
+: many (manig; adjective; dative plural)
+
+mǣgþum
+: (from) tribes, nations (mǣgþ, fem.; dative plural)
+
+meodo-setla
+: mead benches (medusetl, neut.; medu is mead and setl is seat; genitive plural)
+
+oftēah
+: take away (oftēah, tēah can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past)
 
 ### Egsode eorl,
 
-egsode - terrified (egsian; 3rd person singular past)
-eorlas - "eorl" emended to either Eorle, the Eruli tribe of Denmark, or eorlas, a noble rank. (eorl masc.; accusative plural)
+egsode
+: terrified (egsian; 3rd person singular past)
+
+eorl
+: "eorl" is typically edited to either Eorle, the Eruli tribe of Denmark, or eorlas, a noble rank. (se eorl; accusative plural)
 
 
 ### syððan ǣrest wearð fēa-sceaft funden: hē þæs frōfre gebād, wēox under wolcnum, weorð-myndum ðāh, oð þæt him ǣghwylc þāra ymb-sittendra ofer hron-rāde hȳran scolde, gomban gyldan:      
 
-syððan - since (conjugation)
-ǣrest -first, at first (adverb) 
+syððan
+: since (conjugation)
+
+ǣrest
+: first, at first (adverb)
+
 wearð - came to be (weorþan; 3rd person singular past)
 féasceaft - destitute, miserable (adjective)
 funden - found (findan; past participle)
