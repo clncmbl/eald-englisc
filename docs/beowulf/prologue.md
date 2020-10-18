@@ -82,11 +82,11 @@ MAYBE: Wē gefrūnon Gār-Dena in geār-dagum þēod-cyninga þrym, hū þā æ�
 
 
 ### Oft Scyld Scēfing sceaðena þrēatum, monegum mǣgðum meodo-setla oftēah.
-Often Scyld Scefing from enemy armies, from many nations, mead-benches took.\
-Often Scyld Scefing took mead benches from enemy armies, from many nations.
+Often Scyld Scefing enemy armies, many nations, of mead-benches deprived.\
+Often Scyld Scefing deprived enemy armies, many nations of mead benches.
 
 Re-ordering to resemble ModE prose:\
-Oft Scyld Scēfing oftēah meodo-setla sceaðena þrēatum, monegum mǣgðum.
+Oft Scyld Scēfing oftēah sceaðena þrēatum, monegum mǣgðum meodo-setla.
 
 oft
 : often
@@ -107,7 +107,7 @@ meodo-setla
 : mead benches (þæt medusetl; medu is mead and setl is seat; genitive plural)
 
 oftēah
-: take away (something from somebody) (oftēon, tēon can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past.  According to Bosworth-Toller, with dat. or acc. of person, gen. of thing, or dat. of person and acc. of thing.)
+: deprived (somebody of something) (oftēon, tēon can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past.  According to Bosworth-Toller, with dat. or acc. of person, gen. of thing, or dat. of person and acc. of thing.)
 
 ### Egsode eorl,
 
@@ -202,11 +202,11 @@ gyldan
 : to pay (alternative form of gieldan)
 
 Might better punctuate literal translation as:\
-Often Scyld Scefing from enemy armies, from many nations, mead-benches took, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
-Oft Scyld Scéfing sceaþena þréatum monegum mǣgþum meodosetla oftéah, egsode eorlas.  Syððan aérest wearð féasceaft funden, hé þæs frófre gebád, wéox under wolcnum, weorðmyndum þáh, oðþæt him æghwylc þára ymbsittendra ofer hronráde hýran scolde, gomban gyldan.
+Often Scyld Scefing enemy armies, many nations, of mead-benches deprived, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
+Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah, egsode eorlas.  Syððan ǣrest wearð fēa-sceaft funden, hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
 
 Re-ordering to resemble ModE prose:\
-Oft Scyld Scéfing meodosetla oftéah sceaþena þréatum monegum mǣgþum, egsode eorlas.
+Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum, egsode eorlas.
 
 
 ### Þæt wæs gōd cyning!
