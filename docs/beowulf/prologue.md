@@ -8,6 +8,10 @@ The following were useful vocabulary references:
 * https://en.wiktionary.org/
 * [EOW: Englisc Onstigende Wordbōc](https://hord.ca/projects/eow/)
 
+Also helpful:
+* <https://lrc.la.utexas.edu/eieol/engol/10>
+* <https://jessica-seymour.com/2020/08/11/comparing-three-different-translations-of-beowulf-because-at-this-point-why-not/>
+
 ## Lines 1-12:
 
      Hwæt! Wē Gār-Dena      in geār-dagum
@@ -164,23 +168,44 @@ weorð-myndum
 ### oð þæt him ǣghwylc þāra ymb-sittendra ofer hron-rāde hȳran scolde, gomban gyldan:      
 
 
-oð þæt or oðþæt - until (conjunction; oð alone is typically "until" or "up to", etc., as a preposition) 
-him - to him (dative masc. or neut. personal 3rd person pronoun)
-ǣghwylc - every, each (pronoun, nominative)
-þāra - the, those (genitive plural)
-ymb-sittendra - neighboring people (se ymbsittend, genitive plural)
-ofer - over, beyond, across (+ dative for location, + accusative for motion)
-hron-rāde - "whale-road", sea, ocean (seo hronrad or hranrad; acc, gen, dat sing)
-hȳran - to obey, listen (to) (when +dative)  (hyran or hieran)
-scolde - had (to), must or should (but past) (sculan; 1st, 3rd person past)
-gomban - tribute (seo gombe; nominative plural or accusative singular)
-gyldan - to pay (alternative form of gieldan)
+oð þæt or oðþæt
+: until (conjunction; oð alone is typically "until" or "up to", etc., as a preposition)
 
-Might better punctuate literal translation as:
-Often Scyld Scefing from enemy armies, from many nations, mead-benches took, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.
+him
+: to him (dative masc. or neut. personal 3rd person pronoun)
+
+ǣghwylc
+: every, each (pronoun, nominative)
+
+þāra
+: the, those (genitive plural)
+
+ymb-sittendra
+: neighboring people (se ymbsittend, genitive plural)
+
+ofer
+: over, beyond, across (+ dative for location, + accusative for motion)
+
+hron-rāde
+: "whale-road", sea, ocean (seo hronrad or hranrad; acc, gen, dat sing)
+
+hȳran
+: to obey, listen (to) (when +dative)  (hyran or hieran)
+
+scolde
+: had (to), must or should (but past) (sculan; 1st, 3rd person past)
+
+gomban
+: tribute (seo gombe; nominative plural or accusative singular)
+
+gyldan
+: to pay (alternative form of gieldan)
+
+Might better punctuate literal translation as:\
+Often Scyld Scefing from enemy armies, from many nations, mead-benches took, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
 Oft Scyld Scéfing sceaþena þréatum monegum mǣgþum meodosetla oftéah, egsode eorlas.  Syððan aérest wearð féasceaft funden, hé þæs frófre gebád, wéox under wolcnum, weorðmyndum þáh, oðþæt him æghwylc þára ymbsittendra ofer hronráde hýran scolde, gomban gyldan.
 
-Re-ordering to resemble ModE prose:
+Re-ordering to resemble ModE prose:\
 Oft Scyld Scéfing meodosetla oftéah sceaþena þréatum monegum mǣgþum, egsode eorlas.
 
 
