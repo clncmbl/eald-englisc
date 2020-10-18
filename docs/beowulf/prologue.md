@@ -104,10 +104,10 @@ mǣgþum
 : (from) tribes, nations (mǣgþ, fem.; dative plural)
 
 meodo-setla
-: mead benches (medusetl, neut.; medu is mead and setl is seat; genitive plural)
+: mead benches (þæt medusetl; medu is mead and setl is seat; genitive plural)
 
 oftēah
-: take away (oftēah, tēah can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past)
+: take away (something from somebody) (oftēon, tēon can be pull or drag, prefix "of" can be "from"; 3rd pers. sing. past.  According to Bosworth-Toller, with dat. or acc. of person, gen. of thing, or dat. of person and acc. of thing.)
 
 ### Egsode eorl,
 
