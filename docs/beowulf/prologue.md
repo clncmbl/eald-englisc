@@ -129,7 +129,9 @@ eorl
 ### syððan ǣrest wearð fēa-sceaft funden: hē þæs frōfre gebād, wēox under wolcnum, weorð-myndum ðāh,
 
 syððan
-: since (conjugation)
+: after (since, after; conjugation.  According to Bosworth-Toller, syððan translates to "since" as a
+conjunction "where the tense of the verb in the clause introduced by syððan is past, in the other clause
+present," and translates to "after" "where the tense is the same in each clause.")
 
 ǣrest
 : first, at first (adverb)
