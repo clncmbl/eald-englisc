@@ -26,13 +26,25 @@ Also helpful:
      ofer hron-rāde      hȳran scolde,
      gomban gyldan:      þæt wæs gōd cyning!
 
+```
+Listen! We have heard of the glory of the kings of the Spear-Danes of olden days,
+how the princes showed courage.
+
+Scyld Scefing often deprived enemy armies, many
+nations, of mead benches, terrified nobles.  Since he at first came to be
+destitute found, he afterwards experienced comfort, grew under heaven, prospered
+with glory, until every neighboring people beyond the sea had to listen to him,
+pay tribute.
+```
+
 **Hwæt!** - What! (in place of Listen! or Hark!)
 
 ### Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
+We have heard of the glory of the kings of the Spear-Danes of olden days, how the princes showed courage.
+
 #### Simple clauses
-Wē Gār-Dena þrym gefrūnon\
-We heard of the glory of the Spear-Danes.\
-MAYBE: We have heard of the glory of the Spear-Danes' nation-kings.
+Wē þēod-cyninga þrym gefrūnon\
+We have heard of the glory of the nation-kings.
 
 Gār-Dena
 : Spear-Danes (genitive plural)
@@ -58,14 +70,12 @@ ellen
 fremedon
 : displayed, performed (fremman; preterite plural)
 
+Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.\
+We of Spear-Danes of yore-days' nation-king's glory have heard; how the princes courage showed.\
+We have heard of the glory of the kings of the Spear-Danes of olden days, how the princes showed courage.
 
-Wē Gār-Dena in geār-dagum þēod-cyninga þrym gefrūnon, hū þā æðelingas ellen fremedon.
-
-We of Spear-Danes in yore-days, of nation-kings, glory heard; how the princes courage showed.\
-MAYBE: We of Spear-Danes' of yore-days nation-king's glory have heard; how the princes courage showed.
-
-We heard of the glory of the Spear-Danes in the olden days, of kings of nations, how the princes showed courage.\
-MAYBE: We have heard of the glory of the kings of the Spear-Danes of olden days, how the princes showed courage.
+The "nation" prefix on "nation-king" seems redundant.  The role of "þēod" might simply be to
+provide poetic alliteration and rhythm.
 
 geār-dagum
 : olden days (year or yore followed by day in dative plural)
@@ -77,13 +87,11 @@ hū
 : how
 
 Re-ordering to resemble ModE prose:\
-Wē gefrūnon þrym Gār-Dena in geār-dagum, þēod-cyninga, hū þā æðelingas fremedon ellen.\
-MAYBE: Wē gefrūnon Gār-Dena in geār-dagum þēod-cyninga þrym, hū þā æðelingas ellen fremedon.
-
+Wē gefrūnon Gār-Dena in geār-dagum þēod-cyninga þrym, hū þā æðelingas ellen fremedon.
 
 ### Oft Scyld Scēfing sceaðena þrēatum, monegum mǣgðum meodo-setla oftēah.
 Often Scyld Scefing enemy armies, many nations, of mead-benches deprived.\
-Often Scyld Scefing deprived enemy armies, many nations of mead benches.
+Scyld Scefing often deprived enemy armies, many nations of mead benches.
 
 Re-ordering to resemble ModE prose:\
 Oft Scyld Scēfing oftēah sceaðena þrēatum, monegum mǣgðum meodo-setla.
@@ -205,8 +213,11 @@ Might better punctuate literal translation as:\
 Often Scyld Scefing enemy armies, many nations, of mead-benches deprived, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
 Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah, egsode eorlas.  Syððan ǣrest wearð fēa-sceaft funden, hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
 
+Scyld Scefing often deprived enemy armies, many nations, of mead benches, terrified nobles.  Since he at first came to be destitute found, he afterwards experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
+
 Re-ordering to resemble ModE prose:\
 Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum, egsode eorlas.
 
 
 ### Þæt wæs gōd cyning!
+That was a good king!
