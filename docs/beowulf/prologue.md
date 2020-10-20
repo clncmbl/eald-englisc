@@ -30,11 +30,12 @@ Also helpful:
 Listen! We have heard of the glory of the kings of the Spear-Danes of olden days,
 how the princes showed courage.
 
-Scyld Scefing often deprived enemy armies, many
-nations, of mead benches, terrified nobles.  Since he at first came to be
-destitute found, he afterwards experienced comfort, grew under heaven, prospered
+Scyld Scefing often deprived enemy armies, many nations, of mead
+benches.  He terrified nobles after he at first came to be destitute found.  He   [? this or]
+benches, terrified nobles.  After he at first came to be destitute found, he   [this ?]
+afterwards experienced comfort, grew under heaven, prospered
 with glory, until every neighboring people beyond the sea had to listen to him,
-pay tribute.
+pay tribute.  That was a good king!
 ```
 
 **Hwæt!** - What! (in place of Listen! or Hark!)
@@ -212,10 +213,10 @@ gyldan
 : to pay (alternative form of gieldan)
 
 Might better punctuate literal translation as:\
-Often Scyld Scefing enemy armies, many nations, of mead-benches deprived, terrified nobles.  Since at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
+Often Scyld Scefing enemy armies, many nations, of mead-benches deprived, terrified nobles.  After at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
 Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah, egsode eorlas.  Syððan ǣrest wearð fēa-sceaft funden, hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
 
-Scyld Scefing often deprived enemy armies, many nations, of mead benches, terrified nobles.  Since he at first came to be destitute found, he afterwards experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
+Scyld Scefing often deprived enemy armies, many nations, of mead benches, terrified nobles.  After he at first came to be destitute found, he afterwards experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
 
 Re-ordering to resemble ModE prose:\
 Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum, egsode eorlas.
