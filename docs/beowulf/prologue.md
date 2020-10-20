@@ -31,9 +31,8 @@ Listen! We have heard of the glory of the kings of the Spear-Danes of olden days
 how the princes showed courage.
 
 Scyld Scefing often deprived enemy armies, many nations, of mead
-benches.  He terrified nobles after he at first came to be destitute found.  He   [? this or]
-benches, terrified nobles.  After he at first came to be destitute found, he   [this ?]
-afterwards experienced comfort, grew under heaven, prospered
+benches.  He terrified nobles after he at first came to be destitute found.  He therefore
+experienced comfort, grew under heaven, prospered
 with glory, until every neighboring people beyond the sea had to listen to him,
 pay tribute.  That was a good king!
 ```
@@ -150,7 +149,7 @@ hē
 : he
 
 þæs
-: that (genitive singular), OR afterwards (adverb, þæs in en.wiktionary.org )
+: that (genitive singular), OR afterwards, because of that, therefore, so (adverb, þæs in en.wiktionary.org )
 
 frōfre
 : consolation, comfort (frōfor, usually fem. singular G.D.I.A.) What preposition for translation?
@@ -158,7 +157,7 @@ frōfre
 gebād
 : experienced (gebīdan, 3rd [and 1st] person singular past)
 
-hē þæs frōfre gebād - he from that [time] met with comfort,  (from http://bosworth.ff.cuni.cz/013666)
+hē þæs frōfre gebād - he from that [time] met with comfort,  (from http://bosworth.ff.cuni.cz/013666).  Or, he therefore experienced comfort.
 
 wēox
 : grew (weaxan, 3rd [and 1st] person singular past)
@@ -213,13 +212,15 @@ gyldan
 : to pay (alternative form of gieldan)
 
 Might better punctuate literal translation as:\
-Often Scyld Scefing enemy armies, many nations, of mead-benches deprived, terrified nobles.  After at first came to be destitute found, he afterwards comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
-Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah, egsode eorlas.  Syððan ǣrest wearð fēa-sceaft funden, hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
+Often Scyld Scefing enemy armies, many nations, of mead-benches deprived.  He terrified nobles after at first came to be destitute found.  He therefore comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
+Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah.  Egsode eorl\[as\] syððan ǣrest wearð fēa-sceaft funden.  Hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
 
-Scyld Scefing often deprived enemy armies, many nations, of mead benches, terrified nobles.  After he at first came to be destitute found, he afterwards experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
+With 3rd-person singular verbs, I insert a "he" where it seems appropriate since other similarly-inflected languages frequently have an implied subject. 
+
+Scyld Scefing often deprived enemy armies, many nations, of mead benches.  He terrified nobles after he at first came to be destitute found.  He therefore experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
 
 Re-ordering to resemble ModE prose:\
-Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum, egsode eorlas.
+Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum. Egsode eorlas...
 
 
 ### Þæt wæs gōd cyning!
