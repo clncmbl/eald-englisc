@@ -12,7 +12,7 @@ Also helpful:
 * <https://lrc.la.utexas.edu/eieol/engol/10>
 * <https://jessica-seymour.com/2020/08/11/comparing-three-different-translations-of-beowulf-because-at-this-point-why-not/>
 
-## Lines 1-12:
+## Lines 1-11:
 
      Hwæt! Wē Gār-Dena      in geār-dagum
      þēod-cyninga      þrym gefrūnon,
@@ -169,14 +169,16 @@ wolcnum
 : clouds (seo wolcen or wolcn, plural dative; under wolcnum: under heaven?)
 
 weorð-myndum
-: (with?) honor, glory (seo weorð-mynd, plural dative; "worth" comes from weorð)
+: (with?) honor, glory (seo weorð-mynd, plural dative;
+"worth" comes from weorð and "mind" comes from mynd, so maybe
+the compound means something about being worthy in people's
+minds.)
 
 ðāh
 : prospered (þeon,  3rd [and 1st] person singular past)
 
 
 ### oð þæt him ǣghwylc þāra ymb-sittendra ofer hron-rāde hȳran scolde, gomban gyldan:      
-
 
 oð þæt or oðþæt
 : until (conjunction; oð alone is typically "until" or "up to", etc., as a preposition)
@@ -215,13 +217,17 @@ Might better punctuate literal translation as:\
 Often Scyld Scefing enemy armies, many nations, of mead-benches deprived.  He terrified nobles after at first came to be destitute found.  He therefore comfort experienced, grew under heaven, with glory prospered, until to him every neighboring people beyond the sea had to listen, pay tribute.\
 Oft Scyld Scēfing sceaþena þrēatum monegum mǣgþum meodosetla oftēah.  Egsode eorl\[as\] syððan ǣrest wearð fēa-sceaft funden.  Hē þæs frōfre gebād, wēox under wolcnum, weorðmyndum ðāh, oðþæt him æghwylc þāra ymbsittendra ofer hron-rāde hȳran scolde, gomban gyldan.
 
-With 3rd-person singular verbs, I insert a "he" where it seems appropriate since other similarly-inflected languages frequently have an implied subject. 
+With 3rd-person singular verbs, I insert a "he" where it seems appropriate since other
+similarly-inflected languages frequently have an implied subject where English has an
+explicit one. 
 
-Scyld Scefing often deprived enemy armies, many nations, of mead benches.  He terrified nobles after he at first came to be destitute found.  He therefore experienced comfort, grew under heaven, prospered with glory, until every neighboring people beyond the sea had to listen to him, pay tribute.
+Scyld Scefing often deprived enemy armies, many nations, of mead benches.  He terrified
+nobles after he at first came to be destitute found.  He therefore experienced comfort,
+grew under heaven, prospered with glory, until every neighboring people beyond the sea
+had to listen to him, pay tribute.
 
 Re-ordering to resemble ModE prose:\
 Oft Scyld Scēfing meodosetla oftēah sceaþena þrēatum monegum mǣgþum. Egsode eorlas...
-
 
 ### Þæt wæs gōd cyning!
 That was a good king!
