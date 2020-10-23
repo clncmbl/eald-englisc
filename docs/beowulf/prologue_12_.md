@@ -24,11 +24,22 @@ eafera
 : son (se eafera, nominative singular; offspring)
 
 wæs
+: was
+
 æfter
+: after
+
 cenned
+:  (cennan, to make known, produce, bring forth, declare ; past participle)  
+
 geong
+: young, new, recent
+
 in
+
 geardum
+:  (geard, enclosure, yard, garden, dwelling, court, region, land , dative plural)
+
 þone
 god
 sende
