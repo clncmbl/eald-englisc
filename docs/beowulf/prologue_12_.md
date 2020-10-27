@@ -1,4 +1,7 @@
 
+See also http://jacklynch.net/Texts/beowulf.html
+
+
 # Lines 12-19
 
      þǣm eafera wæs      æfter cenned
@@ -36,6 +39,14 @@ in
 geardum
 :  (geard, enclosure, yard, garden, dwelling, court, region, land , dative plural)
 
+
+þǣm eafera wæs æfter cenned\
+to him a son was then produced
+
+geong in geardum\
+young in the yards
+
+
 þone
 : him (se, accusative, singular)
 
@@ -46,11 +57,13 @@ sende
 : sent
 
 folce
-: to the people, tribe, nation (folc, dative, singular)
+: to the people, tribe, nation, folk (folc, dative, singular)
 
 tō
-: "as" in this case?
+: "as" or "for" in this case?
 
 frōfre
 : consolation, comfort (frōfor, acc. sing., gen. sing., nom. plur., acc. plur.)
 
+þone god sende folce tō frōfre\
+him God sent to the folk for comfort
