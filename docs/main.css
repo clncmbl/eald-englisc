@@ -1,0 +1,25 @@
+/* The following dl approach taken from
+ * https://www.the-art-of-web.com/css/format-dl/.
+ * Try search on "dl with css grid", too.*/
+dl {
+  display: flex;
+  flex-flow: row wrap;
+  /*border: solid #333;*/
+  /*border-width: 1px 1px 0 0;*/
+}
+dt {
+  flex-basis: 20%;
+  padding: 2px 4px;
+  /*background: #333;*/
+  text-align: right;
+  /*color: #fff;*/
+  font-weight: bold;
+}
+dd {
+  flex-basis: 70%;
+  flex-grow: 1;
+  margin: 0;
+  padding: 2px 4px;
+  /*border-bottom: 1px solid #333;*/
+}
+
