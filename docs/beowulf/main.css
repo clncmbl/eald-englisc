@@ -2,13 +2,14 @@
  * https://www.the-art-of-web.com/css/format-dl/.
  * Try search on "dl with css grid", too.*/
 dl {
-  display: flex;
-  flex-flow: row wrap;
+  display: grid;
+  /*grid-template: auto / 10em 1fr;*/
+  grid-template: auto / minmax(10em, auto) 1fr;
   /*border: solid #333;*/
   /*border-width: 1px 1px 0 0;*/
 }
 dt {
-  flex-basis: 20%;
+  grid-column: 1;
   padding: 2px 4px;
   /*background: #333;*/
   text-align: right;
@@ -16,8 +17,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  flex-basis: 70%;
-  flex-grow: 1;
+  grid-column: 2;
   margin: 0;
   padding: 2px 4px;
   /*border-bottom: 1px solid #333;*/
