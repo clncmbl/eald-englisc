@@ -1,7 +1,25 @@
+pre {
+  font-family: sans-serif;
+  line-height: 1.5;
+  letter-spacing: .07em;
+  word-spacing: .1em;
+}
+
+table {
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid lightgray;
+  padding: .2em 1em;
+}
+
 /* The following dl approach taken from
  * https://www.the-art-of-web.com/css/format-dl/.
  * Try search on "dl with css grid", too.*/
 dl {
+  font-size: 1rem;
+  line-height: 1.2;
   display: grid;
   /*grid-template: auto / 10em 1fr;*/
   grid-template: auto / minmax(10em, auto) 1fr;
@@ -10,16 +28,26 @@ dl {
 }
 dt {
   grid-column: 1;
-  padding: 2px 4px;
-  /*background: #333;*/
+  display: flex;
+  /*align-items: center;*/
+  justify-content: flex-end;
   text-align: right;
-  /*color: #fff;*/
   font-weight: bold;
+  padding: .12em 4px;
+  margin: 0;
+  font-family: sans-serif;
+  /*line-height: 1.20;*/
+  /*font-family: monospace;
+  padding: .17em 4px;
+  line-height: 1.47 */
 }
 dd {
   grid-column: 2;
+  display: flex;
+  /*align-items: center;*/
+  justify-content: flex-start;
   margin: 0;
-  padding: 2px 4px;
-  /*border-bottom: 1px solid #333;*/
+  padding: .12em 4px;
+  /*line-height: 1.2;*/
 }
 
