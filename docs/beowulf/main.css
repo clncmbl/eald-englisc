@@ -8,9 +8,15 @@ table {
   font-size: 1rem;
 }
 
-pre,
-.words td:nth-child(1),
-.words td:nth-child(4) {
+/* Some classes set in javascript. */
+.oe-word {
+  font-weight: bold;
+}
+
+/* pre,
+   .words td:nth-child(1),
+   .words td:nth-child(4) */
+.oe {
   font-family: sans-serif;
   line-height: 1.8;
   letter-spacing: .09em;
