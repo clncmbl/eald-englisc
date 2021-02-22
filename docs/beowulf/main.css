@@ -7,6 +7,11 @@
   box-sizing: inherit;
 }
 
+list-grouper {
+  display: flex;
+  background-color: lightgray;
+}
+
 table {
   border: 1px solid lightgray;
   border-collapse: collapse;
