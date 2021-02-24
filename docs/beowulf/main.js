@@ -1,5 +1,7 @@
 'use strict'
 
+//import { ListGrouper } from './listgrouper.js'
+
 function wrapArticle() {
 
   const docfrag = document.createDocumentFragment()
@@ -40,5 +42,10 @@ window.addEventListener('DOMContentLoaded', async ev => {
 
   wrapArticle()
 
-  //document.body.append(document.createElement('div'))
+  import('./listgrouper.js')
+
+  //if (!customElements.get('list-grouper')) {
+  //  console.log('defining')
+  //  customElements.define('list-grouper', ListGrouper)
+  //}
 })
