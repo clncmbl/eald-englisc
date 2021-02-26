@@ -12,6 +12,10 @@ list-grouper {
   background-color: lightgray;
 }
 
+list-grouper .idxhover {
+  background-color: yellow;
+}
+
 table {
   border: 1px solid lightgray;
   border-collapse: collapse;
