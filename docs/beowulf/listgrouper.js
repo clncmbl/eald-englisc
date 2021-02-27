@@ -30,14 +30,9 @@ class ListGrouper extends HTMLElement {
           const idx = idxMap.get(event.target)
           lists.forEach(list => {
             const item = list.children[idx]
-            // Any difference in perceived responsiveness
-            // using class vs direct styling?  Not that
-            // I can see.
-            item.style.color = 'blue'
+            //item.style.color = 'blue'
             item.classList.add('idxhover')
           })
-          //event.target.style.color = 'blue'
-          //console.log(event.target.value)
         }
       })
     this.addEventListener('mouseout', ev => {
@@ -45,10 +40,9 @@ class ListGrouper extends HTMLElement {
           let idx = idxMap.get(event.target)
           lists.forEach(list => {
             const item = list.children[idx]
-            item.style.color = 'red'
+            //item.style.color = 'red'
             item.classList.remove('idxhover')
           })
-          //event.target.style.color = 'red'
         }
       })
   }

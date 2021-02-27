@@ -1,6 +1,11 @@
 :root {
   font-size: 1em;
   box-sizing: border-box;
+
+  --hue: 40;
+  --sat: 40%;
+  --light: 85%;
+  --color: hsl(var(--hue), var(--sat), var(--light));
 }
 
 *, ::before, ::after {
@@ -9,11 +14,19 @@
 
 list-grouper {
   display: flex;
-  background-color: lightgray;
+  flex-wrap: wrap;
+  /*background-color: var(--color);*/
+}
+
+list-grouper li {
+  max-width: 30em;
+}
+list-grouper .oe li {
+  padding: .2em 0;
 }
 
 list-grouper .idxhover {
-  background-color: yellow;
+  background-color: var(--color);
 }
 
 table {
@@ -32,6 +45,10 @@ table {
   letter-spacing: .09em;
   word-spacing: .12em;
   font-size: .9rem;
+  line-height: 1.4;
+}
+
+pre.oe {
   line-height: 1.8;
 }
 

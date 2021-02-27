@@ -2,6 +2,10 @@
 
 //import { ListGrouper } from './listgrouper.js'
 
+document.head.innerHTML += `
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="main.css?v=1">`
+
 function wrapArticle() {
 
   const docfrag = document.createDocumentFragment()
