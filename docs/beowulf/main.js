@@ -1,6 +1,6 @@
 'use strict'
 
-//import { ListGrouper } from './listgrouper.js'
+//import { ListGroup } from './listgroup.js'
 
 document.head.innerHTML += `
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,7 +38,6 @@ function addClasses() {
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
-  console.log('DOM fully loaded and parsed')
 
   // Add classes before wrapping to avoid any complications
   // associated with wrapper.
@@ -46,10 +45,12 @@ window.addEventListener('DOMContentLoaded', async ev => {
 
   wrapArticle()
 
-  import('./listgrouper.js')
+  // Dynamic import here prevents applying the change twice (once
+  // before wrapArticle and again after).
+  import('./listgroup.js')
 
-  //if (!customElements.get('list-grouper')) {
+  //if (!customElements.get('list-group')) {
   //  console.log('defining')
-  //  customElements.define('list-grouper', ListGrouper)
+  //  customElements.define('list-group', ListGroup)
   //}
 })

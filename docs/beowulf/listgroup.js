@@ -1,17 +1,11 @@
 'use strict'
 
-console.log('In listgrouper.js')
-
-//export
-class ListGrouper extends HTMLElement {
+class ListGroup extends HTMLElement {
   constructor() {
     super()
-    console.log('In constructor')
   }
 
   connectedCallback() {
-    console.log('connected')
-    //console.log(this.innerHTML)
 
     const idxMap = new WeakMap()
 
@@ -21,7 +15,6 @@ class ListGrouper extends HTMLElement {
         const items = list.children
         for (let i=0; i < items.length; ++i ) {
           idxMap.set(items[i], i)
-          console.log(i)
         }
       })
 
@@ -30,8 +23,9 @@ class ListGrouper extends HTMLElement {
           const idx = idxMap.get(event.target)
           lists.forEach(list => {
             const item = list.children[idx]
-            //item.style.color = 'blue'
-            item.classList.add('idxhover')
+            if (item) {
+              item.classList.add('idxhover')
+            }
           })
         }
       })
@@ -40,15 +34,15 @@ class ListGrouper extends HTMLElement {
           let idx = idxMap.get(event.target)
           lists.forEach(list => {
             const item = list.children[idx]
-            //item.style.color = 'red'
-            item.classList.remove('idxhover')
+            if (item) {
+              item.classList.remove('idxhover')
+            }
           })
         }
       })
   }
 }
 
-if (!customElements.get('list-grouper')) {
-  console.log('defining')
-  customElements.define('list-grouper', ListGrouper)
+if (!customElements.get('list-group')) {
+  customElements.define('list-group', ListGroup)
 }

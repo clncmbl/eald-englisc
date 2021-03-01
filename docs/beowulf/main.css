@@ -12,20 +12,20 @@
   box-sizing: inherit;
 }
 
-list-grouper {
+list-group {
   display: flex;
   flex-wrap: wrap;
   /*background-color: var(--color);*/
 }
 
-list-grouper li {
+list-group li {
   max-width: 30em;
 }
-list-grouper .oe li {
+list-group .oe li {
   padding: .2em 0;
 }
 
-list-grouper .idxhover {
+list-group .idxhover {
   background-color: var(--color);
 }
 
