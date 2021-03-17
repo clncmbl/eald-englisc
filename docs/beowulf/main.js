@@ -14,14 +14,14 @@ async function wrapArticle() {
   docfrag.appendChild(document.querySelector('body>article'))
 
   // Create the wrapper.  Use just a simple placeholder for now.
-  document.body.innerHTML = '<header>myheader in main.js</header><div id=contentcontainer></div>'
+  //document.body.innerHTML = '<header>myheader in main.js</header><div id=contentcontainer></div>'
 
 
   // Try using fetch to get the wrapper html.
-  // const response = await fetch('wrapper.html')
-  // const html = response.text()
-  // Use response.ok, response.status, others(?) to help with error handling.
-  // document.body.innerHTML = html
+  const response = await fetch('wrapper.html')
+  const html = await response.text()
+  // TODO: Use response.ok, response.status, others(?) to help with error handling.
+  document.body.innerHTML = html
 
 
   // Now move the original article (in the docfrag) to

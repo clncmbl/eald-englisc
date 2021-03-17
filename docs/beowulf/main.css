@@ -2,14 +2,32 @@
   font-size: 1em;
   box-sizing: border-box;
 
-  --hue: 40;
-  --sat: 40%;
-  --light: 85%;
-  --color: hsl(var(--hue), var(--sat), var(--light));
+  --hue: 31;
+  --sat: 42%;
+  --light: 87%;
+  --color1: hsl(var(--hue), var(--sat), var(--light));
+  --color2: hsl(calc(var(--hue) + 120), var(--sat), var(--light));
+  --color3: hsl(calc(var(--hue) + 240), var(--sat), var(--light));
+  --colorb1: hsl(31, 42%, 87%);
+  --colorb2: hsl(30, 48%, 75%);
+  --colorb3: hsl(27, 61%, 69%);
+  --colorb4: hsl(23, 31%, 54%);
+  --colorb5: hsl(19, 32%, 37%);
 }
 
 *, ::before, ::after {
   box-sizing: inherit;
+}
+
+body {
+  background-color: var(--colorb5);
+}
+
+#bodycontent {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: var(--colorb1);
+  padding: 0 1em;
 }
 
 list-group {
@@ -26,7 +44,7 @@ list-group .oe li {
 }
 
 list-group .idxhover {
-  background-color: var(--color);
+  background-color: var(--color2);
 }
 
 table {
@@ -46,10 +64,15 @@ table {
   word-spacing: .12em;
   font-size: .9rem;
   line-height: 1.4;
+  background-color: var(--colorb2)
 }
 
 pre.oe {
   line-height: 1.8;
+  background-color: var(--colorb2);
+  margin: 0 auto 0 5em;
+  width: fit-content;
+  padding: 1em;
 }
 
 td {
