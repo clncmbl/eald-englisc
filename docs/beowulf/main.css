@@ -13,6 +13,9 @@
   --colorb3: hsl(27, 61%, 69%);
   --colorb4: hsl(23, 31%, 54%);
   --colorb5: hsl(19, 32%, 37%);
+
+  --colorbc1xxxx: hsl(210, 42%, 87%);
+  --colorbc1: hsl(56, 100%, 85%);
 }
 
 *, ::before, ::after {
@@ -24,7 +27,7 @@ body {
 }
 
 #bodycontent {
-  max-width: 1000px;
+  max-width: 68em;
   margin: 0 auto;
   background-color: var(--colorb1);
   padding: 0 1em;
@@ -38,13 +41,14 @@ list-group {
 
 list-group li {
   max-width: 30em;
+  line-height: 1.4;
 }
 list-group .oe li {
   padding: .2em 0;
 }
 
 list-group .idxhover {
-  background-color: var(--color2);
+  background-color: var(--colorbc1);
 }
 
 table {
@@ -62,7 +66,7 @@ table {
   font-family: sans-serif;
   letter-spacing: .09em;
   word-spacing: .12em;
-  font-size: .9rem;
+  /*font-size: .9rem;*/
   line-height: 1.4;
   background-color: var(--colorb2)
 }
