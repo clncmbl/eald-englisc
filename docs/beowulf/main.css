@@ -42,8 +42,6 @@ list-group {
 list-group li {
   max-width: 30em;
   line-height: 1.4;
-}
-list-group .oe li {
   padding: .2em 0;
 }
 
@@ -69,6 +67,11 @@ table {
   /*font-size: .9rem;*/
   line-height: 1.4;
   background-color: var(--colorb2)
+}
+
+p.oe {
+  width: fit-content;
+  padding: .2em 1em;
 }
 
 pre.oe {
