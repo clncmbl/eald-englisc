@@ -34,6 +34,22 @@ async function wrapInitialBodyContent() {
 function addClasses() {
 }
 
+function parseSimpleTable(srcElem) {
+  /*
+   * colseparator = spacechar, { spacechar }+
+   * hyphenline = hyphens, { colseparator, hyphens } eol
+   * equalsymbolline = equalsymbols, { colseparator, equalsymbols } eol
+   * printableseq = { printable }+
+   * cellcontent = printableseq, { spacechar, printableseq }
+   * headrow = cellcontent, { colseparator, cellcontent }
+   * headline = headrow, eol
+   * bodyrow = cellcontent, { colseparator, cellcontent }
+   * bodyline = bodyrow, eol
+   * body = { bodyline }
+   * table = ( headline, hyphenline ) | equalsymbolline, body 
+   */
+  console.log(srcElem.innerHTML)
+}
 
 window.addEventListener('DOMContentLoaded', async ev => {
 
@@ -42,5 +58,9 @@ window.addEventListener('DOMContentLoaded', async ev => {
   addClasses()
 
   await wrapInitialBodyContent()
+
+  document.querySelectorAll('pre.simpletable')
+          .forEach(el => parseSimpleTable(el))
+
 })
 
