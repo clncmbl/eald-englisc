@@ -24,7 +24,6 @@ async function wrapInitialBodyContent() {
   // TODO: Use response.ok, response.status, others(?) to help with error handling.
   document.body.innerHTML = html
 
-
   // Now move the original body content (in the docfrag) to
   // contentcontainer.
   document.getElementById('contentcontainer').append(docfrag)
@@ -37,8 +36,7 @@ function addClasses() {
 function parseSimpleTable(srcElem) {
   /*
    * colseparator = spacechar, { spacechar }+
-   * hyphenline = hyphens, { colseparator, hyphens } eol
-   * equalsymbolline = equalsymbols, { colseparator, equalsymbols } eol
+   * headendline = hyphens, { colseparator, hyphens } eol
    * printableseq = { printable }+
    * cellcontent = printableseq, { spacechar, printableseq }
    * headrow = cellcontent, { colseparator, cellcontent }
@@ -46,9 +44,26 @@ function parseSimpleTable(srcElem) {
    * bodyrow = cellcontent, { colseparator, cellcontent }
    * bodyline = bodyrow, eol
    * body = { bodyline }
-   * table = ( headline, hyphenline ) | equalsymbolline, body 
+   * head =  [ headline ], headendline
+   * table =  head, body 
    */
-  console.log(srcElem.innerHTML)
+  //console.log(srcElem.innerHTML)
+  const lines = srcElem.innerHTML.split(/\r\n|\r|\n/g)
+  console.log(lines)
+  //const lineObjs = lines.map(l => Array.from(l.matchAll(/\w\w+(.*)/g)))
+  //const lineObjs = lines.map(l => Array.from(l.matchAll(/(?:^\s*|\s\s+)(\S+(?:\s\S+)*)/g))) // Might be good enough.
+  //const lineObjs = lines.map(l => Array.from(l.matchAll(/(?<=^\s*|\s\s+)\S+(?:\s\S+)*/g)))
+   
+  // Each lineObj is an array of matches for substrings with
+  // no more than one consecutive space. Includes both the
+  // substrings and their indexes (start positions) on the line.
+  const lineObjs = lines.map(l => Array.from(l.matchAll(/\S+(?:\s\S+)*/g)))
+  console.log(lineObjs)
+
+  const arrarrarr = lineObjs.map(lineMatches => lineMatches.map(m => [ m[0], m.index ]))
+
+  console.log(arrarrarr)
+
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
