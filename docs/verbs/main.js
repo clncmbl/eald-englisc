@@ -50,20 +50,47 @@ function parseSimpleTable(srcElem) {
   //console.log(srcElem.innerHTML)
   const lines = srcElem.innerHTML.split(/\r\n|\r|\n/g)
   console.log(lines)
-  //const lineObjs = lines.map(l => Array.from(l.matchAll(/\w\w+(.*)/g)))
-  //const lineObjs = lines.map(l => Array.from(l.matchAll(/(?:^\s*|\s\s+)(\S+(?:\s\S+)*)/g))) // Might be good enough.
-  //const lineObjs = lines.map(l => Array.from(l.matchAll(/(?<=^\s*|\s\s+)\S+(?:\s\S+)*/g)))
+
+  let colmarkeridx = -1
+  for (let i=0; i<lines.length; i++) {
+    if (lines[i].match(/^[-\s]*-[-\s]*$/)) {
+      colmarkeridx = i
+      break;
+    }
+  }
    
   // Each lineObj is an array of matches for substrings with
   // no more than one consecutive space. Includes both the
   // substrings and their indexes (start positions) on the line.
+  // TODO: Combine these first two passes into one.
   const lineObjs = lines.map(l => Array.from(l.matchAll(/\S+(?:\s\S+)*/g)))
-  console.log(lineObjs)
+                        .filter(arr => arr.length > 0)
+  //console.log(lineObjs)
 
-  const arrarrarr = lineObjs.map(lineMatches => lineMatches.map(m => [ m[0], m.index ]))
+  const arrarrobj = lineObjs.map(lineMatches => lineMatches.map(m => ({ str: m[0], idx: m.index })))
+  // arrarrobj is an array of arrays of string-index objects.
 
-  console.log(arrarrarr)
+  //console.log(arrarrobj)
 
+  const colstarts = arrarrobj[colmarkeridx].map(o => o.idx)
+  console.log(colstarts)
+
+  const colcount = colstarts.length
+
+  for (let a of arrarrobj) {
+    let revstarts = colstarts.slice().reverse()
+
+    a.forEach((o, i) => {
+        o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
+        if (i > 0) {
+          a[i-1].colspan = o.startcol - a[i-1].startcol
+        }
+        if (i === a.length - 1) {
+          o.colspan = colcount - o.startcol
+        }
+      })
+  }
+  console.log(arrarrobj)
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
