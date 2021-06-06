@@ -77,20 +77,69 @@ function parseSimpleTable(srcElem) {
 
   const colcount = colstarts.length
 
-  for (let a of arrarrobj) {
+  // TODO: Need some kind of structure for rowspan tracking.
+  // Try array of rows where each row is an array of integers.
+  // A value of zero indicates a cell absorbed in another's
+  // colspan.
+  //const rowspans = []
+  // Try similar but with references to objects. 
+  const cellstarts = []
+
+  //for (let a of arrarrobj) {
+  arrarrobj.forEach((a, r) => {
+    cellstarts[r] = new Array(colcount).fill(null)
+
     let revstarts = colstarts.slice().reverse()
 
     a.forEach((o, i) => {
-        o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
-        if (i > 0) {
-          a[i-1].colspan = o.startcol - a[i-1].startcol
+      o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
+      o.rowspan = 1
+
+      cellstarts[r][o.startcol] = o;
+      if (i === 0 && o.startcol > 0)  {
+        // TODO: Iterate across possible multiple columns.
+        const ii = 0
+        for (let rr = r-1; rr < 0 || cellstarts[rr][ii] !== null; --rr) {
+          if (rr >= 0) {
+            ++cellstarts[rr][ii].rowspan
+            break;
+          }
         }
-        if (i === a.length - 1) {
-          o.colspan = colcount - o.startcol
-        }
-      })
-  }
+      }
+
+      // Set colspan to fill any gaps.
+      if (i > 0) {
+        a[i-1].colspan = o.startcol - a[i-1].startcol
+      }
+      // If current item is last in row but the table has more
+      // columns, set colspan on current item.
+      if (i === a.length - 1) {
+        o.colspan = colcount - o.startcol
+      }
+    })
+  })
   console.log(arrarrobj)
+  console.log(cellstarts)
+
+  const docfrag = document.createDocumentFragment()
+  const tbl = document.createElement('table')
+  docfrag.appendChild(tbl)
+  document.body.append(docfrag)
+  arrarrobj.forEach(r => {
+      const tr = document.createElement('tr')
+      tbl.append(tr)
+      r.forEach(c => {
+        const td = document.createElement('td')
+        if (c.colspan > 1) {
+          td.setAttribute('colspan', c.colspan)
+        }
+        if (c.rowspan > 1) {
+          td.setAttribute('rowspan', c.rowspan)
+        }
+        td.append(c.str)
+        tr.append(td)
+      })
+    })
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
