@@ -4,7 +4,6 @@ document.head.innerHTML += `
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="main.css?v=1">`
 
-
 async function wrapInitialBodyContent() {
 
   const docfrag = document.createDocumentFragment()
@@ -17,7 +16,6 @@ async function wrapInitialBodyContent() {
   // Create the wrapper.  Use just a simple placeholder for now.
   //document.body.innerHTML = '<header>myheader in main.js</header><div id=contentcontainer></div>'
 
-
   // Try using fetch to get the wrapper html.
   const response = await fetch('wrapper.html')
   const html = await response.text()
@@ -28,7 +26,6 @@ async function wrapInitialBodyContent() {
   // contentcontainer.
   document.getElementById('contentcontainer').append(docfrag)
 }
-
 
 function addClasses() {
 }
@@ -49,6 +46,8 @@ function parseSimpleTable(srcElem) {
    */
   //console.log(srcElem.innerHTML)
   const lines = srcElem.innerHTML.split(/\r\n|\r|\n/g)
+                    .map(ln => ln.trimEnd())
+                    .filter(ln => !!ln) 
   console.log(lines)
 
   let colmarkeridx = -1
@@ -64,7 +63,6 @@ function parseSimpleTable(srcElem) {
   // substrings and their indexes (start positions) on the line.
   // TODO: Combine these first two passes into one.
   const lineObjs = lines.map(l => Array.from(l.matchAll(/\S+(?:\s\S+)*/g)))
-                        .filter(arr => arr.length > 0)
   //console.log(lineObjs)
 
   const arrarrobj = lineObjs.map(lineMatches => lineMatches.map(m => ({ str: m[0], idx: m.index })))
@@ -74,6 +72,14 @@ function parseSimpleTable(srcElem) {
 
   const colstarts = arrarrobj[colmarkeridx].map(o => o.idx)
   console.log(colstarts)
+
+  // Remove the column marker row.
+  arrarrobj.splice(colmarkeridx, 1)
+  // colmarkeridx now points to the first row in the table body, so
+  // still have a use for it.  The name is no longer very helpful,
+  // though, so creating a new variable with a more appropriate
+  // name.
+  const bodystartrowidx = colmarkeridx
 
   const colcount = colstarts.length
 
@@ -124,12 +130,26 @@ function parseSimpleTable(srcElem) {
   const docfrag = document.createDocumentFragment()
   const tbl = document.createElement('table')
   docfrag.appendChild(tbl)
-  document.body.append(docfrag)
-  arrarrobj.forEach(r => {
+
+  let thead = null
+  if (bodystartrowidx > 0) {
+    thead = document.createElement('thead')
+    tbl.appendChild(thead)
+  }
+  const tbody = document.createElement('tbody')
+  tbl.appendChild(tbody)
+
+  arrarrobj.forEach((r, i) => {
       const tr = document.createElement('tr')
-      tbl.append(tr)
+      let celltagname = 'td'
+      if (i < bodystartrowidx) {
+        thead.append(tr)
+        celltagname = 'th'
+      } else {
+        tbody.append(tr)
+      }
       r.forEach(c => {
-        const td = document.createElement('td')
+        const td = document.createElement(celltagname)
         if (c.colspan > 1) {
           td.setAttribute('colspan', c.colspan)
         }
@@ -140,6 +160,8 @@ function parseSimpleTable(srcElem) {
         tr.append(td)
       })
     })
+
+  document.body.append(docfrag)
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
