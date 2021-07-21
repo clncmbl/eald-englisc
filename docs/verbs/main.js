@@ -161,7 +161,7 @@ function parseSimpleTable(srcElem) {
       })
     })
 
-  document.body.append(docfrag)
+  document.getElementById('contentcontainer').append(docfrag)
 }
 
 window.addEventListener('DOMContentLoaded', async ev => {
