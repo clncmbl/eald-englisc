@@ -50,6 +50,8 @@ function parseSimpleTable(srcElem) {
                     .filter(ln => !!ln) 
   console.log(lines)
 
+  // The column marker line is the first line containing
+  // only hyphens and whitespace.
   let colmarkeridx = -1
   for (let i=0; i<lines.length; i++) {
     if (lines[i].match(/^[-\s]*-[-\s]*$/)) {
@@ -70,6 +72,8 @@ function parseSimpleTable(srcElem) {
 
   //console.log(arrarrobj)
 
+  // colstarts is an array containing the starting text column
+  // index of each column marker.
   const colstarts = arrarrobj[colmarkeridx].map(o => o.idx)
   console.log(colstarts)
 
@@ -91,20 +95,37 @@ function parseSimpleTable(srcElem) {
   // Try similar but with references to objects. 
   const cellstarts = []
 
-  //for (let a of arrarrobj) {
+  // For each row array (of objects), determine the starting table
+  // column and colspan for each object.  ('r' is the row index.)
   arrarrobj.forEach((a, r) => {
+    // First set the text column start indexes for each object
+    // in this object array.
     cellstarts[r] = new Array(colcount).fill(null)
 
+    // Get a reverse of colstarts because we start from the end
+    // of the lines when associating text with table columns.
     let revstarts = colstarts.slice().reverse()
 
     a.forEach((o, i) => {
+
+      // Find the right most table column whose marker starts
+      // on or before the beginning of this text object.
       o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
+
       o.rowspan = 1
 
       cellstarts[r][o.startcol] = o;
       if (i === 0 && o.startcol > 0)  {
+        // We are on the first text object in the row and the
+        // start table column for this object is greater than zero,
+        // which means that we must have multiple rowspan on at
+        // least the first column.
+
         // TODO: Iterate across possible multiple columns.
         const ii = 0
+        // TODO: REVIEW THIS. Looks like rr condition and action
+        //       could cause infinite loop.  What am I doing here?
+        //       I think I meant "; rr >= 0 ||".
         for (let rr = r-1; rr < 0 || cellstarts[rr][ii] !== null; --rr) {
           if (rr >= 0) {
             ++cellstarts[rr][ii].rowspan
