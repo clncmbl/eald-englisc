@@ -123,12 +123,10 @@ function parseSimpleTable(srcElem) {
 
         // TODO: Iterate across possible multiple columns.
         const ii = 0
-        // TODO: REVIEW THIS. Looks like rr condition and action
-        //       could cause infinite loop.  What am I doing here?
-        //       I think I meant "; rr >= 0 ||".
-        for (let rr = r-1; rr < 0 || cellstarts[rr][ii] !== null; --rr) {
-          if (rr >= 0) {
-            ++cellstarts[rr][ii].rowspan
+
+        for (let rr = r-1; rr >= 0; --rr) {
+          if (cellstarts[rr][ii] !== null) {
+            cellstarts[rr][ii].rowspan = r - rr + 1
             break;
           }
         }
