@@ -77,6 +77,10 @@ function parseSimpleTable(srcElem) {
   const colstarts = arrarrobj[colmarkeridx].map(o => o.idx)
   console.log(colstarts)
 
+  //Get a reverse of colstarts because we start from the end
+  // of the lines when associating text with table columns.
+  const revstarts = colstarts.slice().reverse()
+
   // Remove the column marker row.
   arrarrobj.splice(colmarkeridx, 1)
   // colmarkeridx now points to the first row in the table body, so
@@ -95,6 +99,41 @@ function parseSimpleTable(srcElem) {
   // Try similar but with references to objects. 
   const cellstarts = []
 
+
+  /// Experimenting:
+  const cellstarts2 = []
+  let fillrow = 0
+  arrarrobj.forEach((a, r) => {
+    //console.log(r)
+    cellstarts2[r] = new Array(colcount).fill(null)
+    //let revstarts = colstarts.slice().reverse()
+
+    let backfilling = ( r > 0 )
+    a.forEach((o, i) => {
+      o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
+      //console.log(o.startcol)
+      cellstarts2[r][o.startcol] = o;
+      if (r > 0) {
+        if (cellstarts2[fillrow][o.startcol] !== null) {
+          backfilling = false
+        }
+      }
+    })
+    if (backfilling) {
+      cellstarts2[r].forEach((o, i) => {
+        if (o !== null) {
+          cellstarts2[fillrow][i] = o
+        }
+      })
+      cellstarts2[r] = null
+    }
+  })
+
+  console.log(JSON.stringify(cellstarts2))
+  // TODO: Set colspan as below.  Then try to render as table.
+  /// End of experimenting block
+
+
   // For each row array (of objects), determine the starting table
   // column and colspan for each object.  ('r' is the row index.)
   arrarrobj.forEach((a, r) => {
@@ -104,11 +143,11 @@ function parseSimpleTable(srcElem) {
 
     // Get a reverse of colstarts because we start from the end
     // of the lines when associating text with table columns.
-    let revstarts = colstarts.slice().reverse()
+    //let revstarts = colstarts.slice().reverse()
 
     a.forEach((o, i) => {
 
-      // Find the right most table column whose marker starts
+      // Find the right-most table column whose marker starts
       // on or before the beginning of this text object.
       o.startcol = colcount - revstarts.findIndex(c => c <= o.idx) - 1
 
