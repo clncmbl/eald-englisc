@@ -4,7 +4,10 @@
 
 document.head.innerHTML += `
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="main.css?v=1">`
+  <link rel="stylesheet" href="main.css" blocking="render">
+  <style>
+    body { visibility: hidden; }
+  <style>`
 
 async function wrapArticle() {
 
@@ -27,6 +30,8 @@ async function wrapArticle() {
   // Now move the original article (in the docfrag) to
   // contentcontainer.
   document.getElementById('contentcontainer').appendChild(docfrag)
+
+  document.body.style.visibility='visible'
 }
 
 function addClassesByQuerySelector(selector, classes) {
@@ -55,7 +60,7 @@ window.addEventListener('DOMContentLoaded', async ev => {
 
   // Dynamic import here prevents applying the change twice (once
   // before wrapArticle and again after).
-  import('./listgroup.js')
+  //import('./listgroup.js')
 
   //if (!customElements.get('list-group')) {
   //  console.log('defining')

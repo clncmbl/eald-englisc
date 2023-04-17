@@ -20,10 +20,13 @@
 
 *, ::before, ::after {
   box-sizing: inherit;
+  margin: unset;
+  padding: unset;  
 }
 
 body {
   background-color: var(--colorb5);
+  margin: 8px;
 }
 
 #bodycontent {
@@ -33,10 +36,34 @@ body {
   padding: 0 1em;
 }
 
+h1, h2, h3, h4 {
+  margin: .5em 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
 list-group {
   display: flex;
   flex-wrap: wrap;
   /*background-color: var(--color);*/
+}
+
+list-group ol {
+  padding-left: 3em;
 }
 
 list-group li {
