@@ -73,6 +73,10 @@ list-group li {
 }
 
 list-group .idxhover {
+  background-color: var(--colorb3);
+}
+
+list-group .idxselected {
   background-color: var(--colorbc1);
 }
 
