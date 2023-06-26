@@ -14,3 +14,11 @@ td, th {
   text-align: center;
   padding: .2em .5em;
 }
+
+txt-table {
+  display: block;
+}
+
+txt-table:not(:defined) {
+  opacity: 0;
+}
