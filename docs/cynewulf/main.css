@@ -1,0 +1,127 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: unset;
+  padding: unset;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.8;
+}
+
+html {
+  font-size: 16px;
+}
+
+ruby {
+  ruby-align: center;
+  ruby-position: under;
+}
+
+rt {
+  font-size: 70%;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.sitetitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sitetitle>div {
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: .5em 0 0 0;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  margin: 1em 0;
+}
+
+div.featurequote {
+  margin: 1em;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+#bodycontent {
+  background-color: ghostwhite;
+  max-width: 80ch;
+  margin: auto;
+}
+
+#bodycontent>header {
+  background-color: hsl(180, 25%, 35%);
+  color: ghostwhite;
+  min-height: 2em;
+}
+
+ul.topmenubar {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+ul.topmenubar > li > a, ul.topmenubar > li > span {
+  display: flex;
+  text-align: center;
+  color: ghostwhite;
+  text-decoration: none;
+  padding: .5rem;
+}
+
+ul.topmenubar li:hover {
+  background: hsl(180, 25%, 25%);  
+}
+
+ul.topmenubar ul {
+  display: none;
+  position: absolute;
+}
+
+ul.topmenubar li:hover > ul {
+  display: block;
+  background: hsl(180, 25%, 25%);
+}
+
+ul.topmenubar li ul li:hover {
+  background: hsl(180, 25%, 45%);
+}
+
+ul.dropmenu li {
+  padding: .5rem;
+}
+
+ul.dropmenu li a, ul.dropmenu li span {
+  color: ghostwhite;
+  text-decoration: none;
+}
+
+#bodycontent>footer {
+    background-color: lightslategray;
+    min-height: 1em;
+}
+
+#contentcontainer {
+  padding: .5em;
+}
+
+pre {
+  background-color: lightgray;
+  padding: .5em;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: .9rem;
+  overflow: auto;
+}
+
+pre.terminal {
+  color: ghostwhite;
+  background-color: black;
+}
