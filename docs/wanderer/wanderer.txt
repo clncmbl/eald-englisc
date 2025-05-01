@@ -24,14 +24,36 @@ of wrathful slaughter,    of the downfall [typo?] of dear kinsmen:
 Oft iċ sċeolde āna   _  ūhtna gehwylċe
     I  had to  alone    in each of the predawns
 
-mīne ċeare  cwīþan.  _  Nis    nū  cwicra    nān
-my   sorrow bemoan.     Not is now of living none
+mīne ċeare  cwīþan.  _  ⌜Nis   nū  cwicra        nān
+my   sorrow bemoan.     Not is now of the living none
 
-þe ic him mōdsefan  _  mīnne durre    | 10
-sweotule āsecgan.  _  Ic tō sōþe wāt
-þæt biþ in eorle  _  indryhten þēaw
-þæt hē his ferðlocan  _  fæste binde,
-healde his hordcofan,  _  hycge swā hē wille.
+þe  iċ him    mōdsefan  _  mīnne durre    | 10
+who I  to him mind         my    dare
+
+sweotule āseċġan.⌝  _  Iċ tō sōþe  wāt
+openly   speak.        I  as truth know    
+---
+⌜Nis...āseċġan.⌝  With simple reordering and removing a
+double negative we get very close
+to PDE: "None is now of the living who to him I dare
+openly speak my mind."  The correct PDE would replace
+"who to him" with "to whom".
++++
+
+þæt  biþ in eorle  _  indryhten þēaw
+that is  in a man     noble     virtue
+
+þæt  hē  his  ferðlocan      _ fæste binde,
+that he  his  soul-enclosure   would firmly bind,
+
+healde           his hordcofan,     _  hycge       swā hē wille.
+would keep close his hoard-chamber,    would think as  he would.
+---
+ferþloca: soul-enclosure = heart
+---
+hordcofa: hoard-chamber = breast
++++
+
 Ne mæg wērig mōd  _  wyrde wiðstondan,  | 15
 ne se hrēo hyge  _  helpe gefremman;
 for ðon dōmgeorne  _  drēorigne oft
