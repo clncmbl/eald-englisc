@@ -54,17 +54,39 @@ ferþloca: soul-enclosure = heart
 hordcofa: hoard-chamber = breast
 +++
 
-Ne mæg wērig mōd  _  wyrde wiðstondan,  | 15
-ne se hrēo hyge  _  helpe gefremman;
-for ðon dōmgeorne  _  drēorigne oft
-in hyra brēostcofan  _  bindað fæste;
-swā ic mōdsefan  _  mīnne sceolde,
-oft earmcearig,  _  ēðle bidǣled,       | 20
-frēomǣgum feor,  _  feterum sǣlan,
-siþþan geāra iū  _  goldwine mīnne
-hrūsan heolstre biwrāh,  _  ond ic hēan þonan
-wōd wintercearig  _  ofer waþema gebind,
-sōhte seledrēorig  _  sinces bryttan,
+Ne      mæg  wērig mōd        _  wyrde wiðstondan,  | 15
+Neither may  the weary spirit    fate  withstand,
+
+ne  se  hrēo     hyġe  _  helpe ġefremman;
+nor the troubled mind     help  provide;
+
+forðon    dōmġeorne              _  drēoriġne            oft
+therefore the fame-eager (nom.)     the sorrowful (acc.) often
+
+in hyra  brēostcofan    _  bindað fæste;
+in their breast-chamber    bind   firmly;
+
+swā iċ mōdsefan  _  mīnne sċeolde,
+so  I  heart        my    had to,
+
+oft   earmċeariġ,  _  ēðle          bidǣled,       | 20
+often careworn,       from homeland separated,
+
+frēomǣgum          feor,  _  feterum      sǣlan,
+from noble kinsmen far,      with fetters bind,
+
+siþþan ġeāra    iū       _  goldwine mīnne
+since  formerly long ago    goldlord my
+
+hrūsan   heolstre    biwrāh,      _  ond iċ hēan     þonan
+of earth in darkness (I) covered,    and I  wretched thence
+
+wōd      wintercearig _  ofer waþema gebind,
+traveled winter-sad       over the binding of waves, 
+
+sōhte  seledrēorig    _  sinces bryttan,     | 25
+sought hall-sorrowful    a giver of treasure
+
 hwǣr ic feor oþþe nēah  _  findan meahte
 þone þe in meoduhealle  _  mīne wisse,
 oþþe mec frēondlēasne  _  frēfran wolde,
