@@ -129,41 +129,72 @@ beloved lore-speeches    for long forgo.
 Ðonne sorg   ond  slǣp  _  somod   ætgædre
 When  sorrow and  sleep    jointly together
 
-earmne    ānhogan  _  oft   ġebindað,  | 40
-miserable loner       often binds,
+earmne ānhogan      _  oft   ġebindað,  | 40
+the miserable loner    often bind,
 
-þinċeð   him    on mōde  _  þæt  hē  his mondryhten
-it seems to him in mind     that he  his man-lord
+⌜þinċeð   him    on mōde⌝  _  þæt  hē  his mondryhten
+ it seems to him in mind      that he  his man-lord
+---
+⌜þinċeð   him    on mōde⌝  This could reasonably be
+translated as "he dreams"
++++
 
-clyppe ond cysse       _  ond  on cnēo  lecge
+clyppe ond cysse       _  ond  on cnēo  leċġe
 would embrace and kiss    and  on knee  would lay
 
-honda ond hēafod,  _  swā hē hwīlum ǣr
-hands and head,
+honda ond hēafod,  _  swā hē  hwīlum    ǣr
+hands and head,       as  he  sometimes formerly
 
-in geārdagum  _  giefstōlas brēac.
+in ġeārdagum  _  ⌜ġiefstōlas       brēac⌝.
+in yore-days      of the gift-seat enjoyed.
+---
+⌜ġiefstōlas brēac⌝  We assume that "ġiefstōlas"
+is a scribal error for "ġiefstōles", which is
+genitive singular.  A reasonable translation
+is "benefited from the gift-seat" where the gift-seat
+is the throne from where the lord bestowed gifts
+to his warriors.
++++
 
-Ðonne onwæcneð eft  _  winelēas guma,
+Ðonne onwæcneð eft   _  winelēas       guma, | 45
+Then  awakes   again    the friendless man,
 
 gesihð him biforan  _  fealwe wēgas,
+sees   him before      dark   waves,
 
 baþian brimfuglas,  _  brǣdan feþra,
+bathe  seabirds,       spread feathers,
 
-hrēosan hrīm ond snāw,  _  hagle gemenged.
+hrēosan hrīm  ond snāw,  _  hagle     ġemenġed.
+fall    frost and snow,     with hail mingled.
+---
+"Then again awakes the friendless man, sees before him
+dark waves, seabirds bathe, spread feathers, frost and
+snow fall, mingled with hail."
++++
 
-Þonne bēoð þȳ hefigran  _  heortan benne,
+Þonne bēoð ⌜þȳ     hefiġran⌝  _  heortan     benne,
+Then  are  by that heavier       the heart's wounds,
+---
+⌜þȳ hefiġran⌝  "þȳ" is a demonstrative-instrumental usage here.
+This pronoun references the dreaming of the past and the
+subsequent awakening to a cold reality.  And it is that which
+makes the heavier the heart wounds.
++++
 
-sāre æfter swǣsne.  _  Sorg bið genīwad
+sāre   æfter           swǣsne.      _  Sorg   bið ġenīwad | 50
+sorely in mourning for the beloved.    Sorrow is  renewed
 
-þonne māga gemynd  _  mōd geondhweorfeð;
+þonne māga       ġemynd   _  mōd      ġeondhweorfeð;
+when  of kinsmen a memory    the mind pass through;
 
-grēteð glīwstafum,  _  georne geondscēawað
+grēteð glīwstafum,  _  ġeorne ġeondsċēawað
 
 secga geseldan.  _  Swimmað eft on weg.
 
 Flēotendra ferð  _  nō þǣr fela bringeð
 
-cūðra cwidegiedda.  _  Cearo bið genīwad
+cūðra cwidegiedda.  _  Cearo bið genīwad | 55
 
 þām þe sendan sceal  _  swīþe geneahhe
 
