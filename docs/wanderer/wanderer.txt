@@ -236,19 +236,37 @@ must not  not too hot-hearted    nor too hasty in speech
 ne  tō wāc wiga        _  ne  tō  wanhȳdiġ
 nor a too weak warrior    nor too reckless
 
-ne  tō  forht   ne  tō  fægen  _  ne  tō  feohgīfre
+ne  tō  forht   ne  tō  fæġen  _  ne  tō  feohġīfre
 nor too fearful nor too joyful    nor too money-greedy
 
-ne  nǣfre  gielpes  tō  georn,  _  ǣr     hē geare   cunne.
+ne  nǣfre  ġielpes  tō  ġeorn,  _  ǣr     hē ġeare   cunne.
 nor never  of boast too eager,     before he clearly would know.
 
-Beorn sceal gebīdan,  _  þonne hē bēot spriceð, | 70
+Beorn  sċeal ġebīdan,  _  þonne hē  bēot    spriceð, | 70
+A man  must  wait,        when  he  a boast speaks,
 
-oþ þæt collenferð  _  cunne gearwe
+oþ þæt collenferð     _  cunne ġearwe
+until  swollen-spirit    would know well
 
-hwider hreþra gehygd  _  hweorfan wille.
+⌜hwider  hreþra  ġehyġd  _  hweorfan wille.⌝
+whither  hearts' thought    would turn.
+---
+⌜hwider...wille.⌝  See also Beowulf lines 2044-2046.
+The plural hreþra seems to suggest a more general kind
+of ġehyġd; that is one that is of the heart and
+might be associated with such desires as those for
+vengeance or fear or glory, etc.  In this case, it could
+be referring to the audience and how they might react
+viscerally to the boast.
+This might, alternatively, reflect the perception of the
+individual as having multiple competing outlooks that resolve
+into a singular mindset.  [TODO: Find references on "warband"
+of competing thoughts (e.g., Lockett) and genitive plurals +
+singular nouns to show synthesis (Greenfield). These
+references might not be valid since based on gen AI output.]
++++
 
-Ongietan sceal glēaw hæle  _  hū gǣstlic bið,
+Onġietan sċeal glēaw hæle  _  hū gǣstlic bið,
 
 þonne ealre þisse worulde wela  _  wēste stondeð,
 
