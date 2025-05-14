@@ -248,11 +248,11 @@ A man  must  wait,        when  he  a boast speaks,
 oþ þæt collenferð     _  cunne ġearwe
 until  swollen-spirit    would know well
 
-⌜hwider  hreþra  ġehyġd  _  hweorfan wille.⌝
-whither  hearts' thought    would turn.
+hwider  ⌜hreþra  ġehyġd⌝  _  hweorfan wille.
+whither hearts'  thought     would turn.
 ---
-⌜hwider...wille.⌝  See also Beowulf lines 2044-2046.
-The plural hreþra seems to suggest a more general kind
+⌜hreþra ġehyġd.⌝  See also Beowulf lines 2044-2046.
+The plural hreþra suggests a general kind
 of ġehyġd; that is one that is of the heart and
 might be associated with such desires as those for
 vengeance or fear or glory, etc.  In this case, it could
@@ -266,15 +266,20 @@ singular nouns to show synthesis (Greenfield). These
 references might not be valid since based on gen AI output.]
 +++
 
-Onġietan sċeal glēaw hæle  _  hū gǣstlic bið,
+Onġietan  sċeal glēaw hæle   _  hū  gǣstlic bið,
+Understan must  wise warrior    how ghostly is,
 
-þonne ealre þisse worulde wela  _  wēste stondeð,
+þonne ealre þisse worulde  wela   _  wēste  stondeð,
+when  all   this  world's  wealth    barren stands,
 
-swā nū missenlīce  _  geond þisne middangeard
+swā nū  missenlīce  _  geond      þisne middangeard | 75
+as  now variously      throughout this  world
 
-winde biwāune  _  weallas stondaþ,
+winde   biwāune    _  weallas stondaþ,
+by wind blown upon    walls   stand,
 
-hrīme bihrorene,  _  hrȳðge þā ederas.
+hrīme  bihrorene,  _  hrȳðge     þā ederas.
+frost  covered,       snow-swept those dwellings.
 
 Wōriað þā wīnsalo,  _  waldend licgað
 
