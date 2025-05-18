@@ -266,8 +266,8 @@ singular nouns to show synthesis (Greenfield). These
 references might not be valid since based on gen AI output.]
 +++
 
-Onġietan  sċeal glēaw hæle   _  hū  gǣstlic bið,
-Understan must  wise warrior    how ghostly is,
+Onġietan   sċeal glēaw hæle       _  hū  gǣstlic bið,
+Understand must  the wise warrior    how ghostly is,
 
 þonne ealre þisse worulde  wela   _  wēste  stondeð,
 when  all   this  world's  wealth    barren stands,
@@ -305,37 +305,46 @@ in death shared,      one   sad-faced
 in eorðscræfe    _  eorl  ġehȳdde.
 in an earth-cave    a man hid.
 
-Ȳþde       swā  þisne eardgeard  _  ælda   Scyppend    | 85
+Ȳþde       swā  þisne eardġeard  _  ælda   Sċyppend    | 85
 Devastated thus this  home-land     of men the Creator
 
-oþ þæt burgwara         _  breahtma  lēase
-until  of town-dwellers    of noises lacking
+oþ þæt burgwara         _  breahtma     lēase
+until  of town-dwellers    of revelries lacking
 
-eald enta    geweorc  _  īdlu  stōdon.
+eald enta    ġeweorc  _  īdlu  stōdon.
 old  giants' works       idle  stood.
 ---
 "The Creator thus devastated this homeland of men
-until, lacking of noises of town-dwellers, old
+until, lacking the revelry of town-dwellers, old
 works of giants stood idle."
 +++
 
-Se þonne þisne wealsteal  _  wīse geþōhte
+Se  þonne þisne wealsteal  _  wīse ġeþōhte
+He  then  this  wallplace     with wise thought
 
-ond þis deorce līf  _  dēope geondþenceð,
+ond  þis  deorce līf   _  dēope  ġeondþenċeð,
+and  this dark   life     deeply thinks through,
 
-frōd in ferðe,  _  feor oft gemon
+frōd in ferðe,  _  feor     oft   ġemon      | 90
+mature in mind, _  long ago often remembers
 
-wælsleahta worn,  _  ond þās word ācwið:
+wælsleahta    worn,      _  ond  þās   word  ācwið:
+of slaughters multitude,    and  these words says:
 
-Hwǣr cwōm mearg? Hwǣr cwōm mago?  _  Hwǣr cwōm māþþumgyfa?
+Hwǣr  cwōm  mearg?     Hwǣr  cwōm  mago?        _  Hwǣr  cwōm  māþþumġyfa?
+Where went  the horse? Where went  the warrior?    Where went  the treasure-giver?
 
-Hwǣr cwōm symbla gesetu?  _  Hwǣr sindon seledrēamas?
+Hwǣr  cwōm  symbla ġesetu?       _  Hwǣr sindon seledrēamas?
+Where went  the seats of feasts?    Where are the hall-joys?
 
-Ēalā beorht bune!  _  Ēalā byrnwiga!
+Ēalā beorht bune!    _  Ēalā byrnwiga!
+Oh,  the bright cup!    Oh,  the mailed-warrior!
 
-Ēalā þēodnes þrym!  _  Hū sēo þrāg gewāt,
+Ēalā þēodnes    þrym!  _  Hū  sēo þrāg  ġewāt,    | 95
+Oh,  the king's might!    How that time departed,
 
-genāp under nihthelm,  _  swā hēo nō wǣre.
+ġenāp    under nihthelm,    _  swā   hēo nō  wǣre.
+darkened under night-cover,    as if it  not were.
 
 Stondeð nū on lāste  _  lēofre duguþe
 
