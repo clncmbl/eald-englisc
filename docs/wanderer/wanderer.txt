@@ -287,8 +287,8 @@ frost  covered,       snow-swept those buildings.
 Wōriað þā wīnsalo,     _  waldend    liċġað
 Decay  the wine-halls,    the rulers lie
 
-drēame bidrorene,  _  duguþ    eal  ġecrong,
-deprived of joys,     the army all  fell,
+drēame bidrorene,  _  duguþ       eal  ġecrong,
+deprived of joys,     the warband all  fell,
 
 wlonc  bi wealle.   _  Sume  wīġ  fornom,    | 80
 proud  by the wall.    Some  war  took away,
@@ -346,25 +346,46 @@ Oh,  the king's might!    How that time departed,
 ġenāp    under nihthelm,    _  swā   hēo nō  wǣre.
 darkened under night-cover,    as if it  not were.
 
-Stondeð nū on lāste  _  lēofre duguþe
+Stondeð nū  on lāste     _  lēofre duguþe
+Stands  now on the track    of the dear warband
 
-weal wundrum hēah,  _  wyrmlīcum fāh.
+weal     wundrum    hēah,  _  wyrmlīcum     fāh.
+the wall wondrously high,     with serpents adorned.
 
-Eorlas fornōman  _  asca þrȳþe,
+⌜Eorlas  fornōman  _  asċa      þrȳþe,
+Warriors took away    of spears multitudes,
 
-wǣpen wælgīfru,  _  wyrd sēo mǣre,
+wǣpen   wælġīfru,         _  wyrd  sēo mǣre,⌝    | 100
+weapons slaughter-greedy,    fate  the renowned,
+---
+⌜Eorlas...mǣre,⌝  "Multitudes of spears, slaughter-greedy
+weapons, fate the renowned took away the warriors,"
++++
 
-ond þās stānhleoþu  _  stormas cnyssað,
+ond  þās stānhleoþu     _  stormas cnyssað,
+and  these stone slopes    storms  beat,
 
-hrīð hrēosende  _  hrūsan bindeð,
+hrīð hrēosende  _  hrūsan     bindeð,
+snow falling       the ground binds,
 
-wintres wōma,  _  þonne won cymeð,
+wintres  wōma.  _  Þonne won  cymeð,
+winter's noise.    Then  dark comes,
 
-nīpeð nihtscūa,  _  norþan onsendeð
+nīpeð   nihtsċūa,     _  norþan         onsendeð
+darkens night-shadow,    from the north sends
+---
+nihtsċūa is the subject of both nīþeð and onsendeð and,
+possibly, of cymeð.
++++
 
-hrēo hæglfare  _  hæleþum on andan.
+hrēo   ⌜hæġlfare⌝  _  hæleþum on andan.  | 105
+fierce hailstorm      to men  in anger.
+---
+⌜hæġlfare⌝ (nominative hæġlfaru) literally "hail-march"
++++
 
-Eall is earfoðlic  _  eorþan rīce;
+Eall is  earfoðlic  _  eorþan rīce;
+All  is  difficult     in earth's kingdom;
 
 onwendeð wyrda gesceaft  _  weoruld under heofonum.
 
