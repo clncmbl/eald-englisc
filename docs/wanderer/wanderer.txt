@@ -279,7 +279,7 @@ winde   biwāune    _  weallas stondaþ,
 by wind blown upon    walls   stand,
 
 hrīme  bihrorene,  _  hrȳðġe     þā ederas.
-frost  covered,       snow-swept those buildings.
+frost  covered,       snow-swept those structures.
 ---
 [See how Marsden parses this section.]
 +++
@@ -312,7 +312,7 @@ oþ þæt burgwara         _  breahtma     lēase
 until  of town-dwellers    of revelries lacking
 
 eald enta    ġeweorc  _  īdlu  stōdon.
-old  giants' works       idle  stood.
+old  giants' works       idle  stood. [Could this be end of long quote?]
 ---
 "The Creator thus devastated this homeland of men
 until, lacking the revelry of town-dwellers, old
@@ -329,10 +329,10 @@ frōd in ferðe,  _  feor     oft   ġemon      | 90
 mature in mind, _  long ago often remembers
 
 wælsleahta    worn,      _  ond  þās   word  ācwið:
-of slaughters multitude,    and  these words says:
+of slaughters multitude,    and  these words says:  [Resuming long quote?]
 
-Hwǣr  cwōm  mearg?     Hwǣr  cwōm  mago?        _  Hwǣr  cwōm  māþþumġyfa?
-Where went  the horse? Where went  the warrior?    Where went  the treasure-giver?
+"Hwǣr  cwōm  mearg?     Hwǣr  cwōm  mago?        _  Hwǣr  cwōm  māþþumġyfa?
+"Where went  the horse? Where went  the warrior?    Where went  the treasure-giver?
 
 Hwǣr  cwōm  symbla ġesetu?       _  Hwǣr sindon seledrēamas?
 Where went  the seats of feasts?    Where are the hall-joys?
@@ -387,20 +387,41 @@ fierce hailstorm      to men  in anger.
 Eall is  earfoðlic  _  eorþan rīce;
 All  is  difficult     in earth's kingdom;
 
-onwendeð wyrda gesceaft  _  weoruld under heofonum.
+onwendeð wyrda     gesceaft   _  weoruld   under heofonum.
+changes  of events the course    the world under the heavens.
+---
+the course of events changes the world under heaven.
++++
 
-Hēr bið feoh lǣne,  _  hēr bið frēond lǣne,
+Hēr  bið feoh     lǣne,     _  hēr  bið frēond   lǣne,
+Here is  treasure fleeting,    here is  a friend fleeting,
 
-hēr bið mon lǣne,  _  hēr bið mǣg lǣne,
+hēr  bið mon   lǣne,     _  hēr  bið mǣg       lǣne,
+here is  a man fleeting,    here is  a kinsman fleeting,
 
-al þis eorþan gesteal  _  īdel weorþeð.
+eal þis  eorþan  gesteal    _  īdel  weorþeð."
+all this earth's foundation    empty becomes."
 
-Swā cwæð snottor on mōde;  _  gesæt him sundor æt rūne.
+Swā cwæð  snottor  on mōde;  _  gesæt him        sundor æt rūne.
+So  said  the wise in mind;     sat   to himself apart  at counsel.
+---
+"sat alone at counsel to himself"
++++
 
-Til biþ se þe his trēowe gehealdeþ;  _  ne sceal nǣfre his torn tō rycene
+Til  biþ se þe  his trēowe  gehealdeþ;  _  ne  sceal  nǣfre  his torn  tō  rycene
+Good is  he who his pledges holds;         not should never  his grief too quickly
 
-beorn of his brēostum ācȳþan,  _  nemþe hē ǣr þā bōte cunne
+beorn  of   his brēostum ācȳþan,  _  nemþe  hē  ǣr      þā  bōte   cunne
+a man  from his breasts  reveal,     unless he  already the remedy knows how
 
-eorl mid elne gefremman.  _  Wel bið þām þe him āre sēceð,
+eorl        mid  elne    gefremman.     _  Wel  bið þām     þe  him         āre sēceð,
+the warrior with courage to accomplish.    Well is  for him who for himself grace seeks,
 
-frōfre tō Fæder on heofonum,  _  þǣr ūs eal sēo fæstnung stondeð.
+frōfre  tō   Fæder      on heofonum,    _  þǣr   ūs     eal sēo fæstnung  stondeð.
+comfort from the Father in the heavens,    where for us all the security  stands.
+---
+Good is he who holds to his pledges; never should a man
+too quickly reveal grief from his breast unless he, the
+warrior, already knows how to accomplish the remedy with
+courage.
++++
