@@ -40,8 +40,8 @@ openly speak my mind."  The correct PDE would replace
 "who to him" with "to whom".
 +++
 
-þæt  biþ in eorle  _  indryhten þēaw
-that is  in a man     noble     virtue
+þæt  biþ in eorle      _  indryhten þēaw
+that is  in a warrior     noble     virtue
 
 þæt  hē  his  ferðlocan      _ fæste binde,
 that he  his  soul-enclosure   would firmly bind,
@@ -307,21 +307,21 @@ over  the deep sea,    one   the grey wolf
 dēaðe    ġedǣlde,  _  sumne drēoriġhlēor
 in death shared,      one   sad-faced
 
-in eorðsċræfe    _  eorl  ġehȳdde.
-in an earth-cave    a man hid.
+in eorðsċræfe    _  eorl      ġehȳdde.
+in an earth-cave    a warrior hid.
 
 Ȳþde        swā  þisne eardġeard  _  ælda      sċyppend    | 85
 Depopulated thus this  home-land     of people the shaper
 
-oþ þæt burgwara         _  breahtma     lēase
-until  of town-dwellers    of revelries lacking
+oþ þæt burgwara         _  breahtma   lēase
+until  of town-dwellers    of noises  lacking
 
 eald enta    ġeweorc  _  īdlu  stōdon.
-old  giants' works       idle  stood. [Could this be end of long quote?]
+old  giants' works       empty stood. [Could this be end of long quote?]
 ---
 "The shaper thus depopulated this homeland of people
-until, lacking the revelry of town-dwellers, old
-works of giants stood idle."
+until, lacking the noises of town-dwellers, old
+works of giants stood empty."
 +++
 
 Se  þonne þisne wealsteal  _  wīse ġeþōhte
@@ -364,7 +364,13 @@ wǣpen   wælġīfru,         _  wyrd  sēo mǣre,⌝    | 100
 weapons slaughter-greedy,    fate  the renowned,
 ---
 ⌜Eorlas...mǣre,⌝  "Multitudes of spears, slaughter-greedy
-weapons, fate the renowned took away the warriors,"
+weapons, fate the renowned took away the warriors,".  Or,
+consider þrȳþe as instrumental and get "Fate the renowned,
+with the force of spears, slaughter-greedy weapons took
+away the warriors,"
+Continuing...
+"and storms beat these stone slopes, snow
+falling on the ground freezes winter's noise(???)"
 +++
 
 ond  þās stānhleoþu     _  stormas cnyssað,
