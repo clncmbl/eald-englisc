@@ -1,0 +1,34 @@
+@import "main.css";
+
+.foliogallery {
+  display: flex;  /* outer */
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  align-items: stretch;
+}
+
+.foliogallery figure {
+  flex: 0 0 min-content; /* as item of outer flexbox */
+  display: flex;  /* nested */
+  flex-direction: column;
+  width: min-content;
+  margin: 0;
+}
+
+.foliogallery figcaption {
+  flex: 1; /* as item of nested flexbox */
+  margin: 0 0 10px 0;
+  width: 100%;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+.foliogallery img {
+  display: block;
+  max-width: none;
+  height: auto;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+}
+
