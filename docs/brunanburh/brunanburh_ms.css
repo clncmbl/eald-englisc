@@ -1,34 +1,41 @@
 @import "main.css";
 
 #bodycontent {
-  font-size: 1.27rem;
-  max-width: fit-content;
+  max-width: 1320px;
 }
 
-#bodycontent > article > footer {
-  max-width: 80ch;
+article.brunms {
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+article.brunms > footer {
   list-style-position: inside;
   margin: 1em;
 }
 
-section {
-}
-
 p {
   margin-bottom: 0.8em;
-  max-width: 80ch;
+}
+
+.maintext {
+  column-width: 40ch;
 }
 
 .folios {
   margin: .5em;
-  padding-bottom: .2em;
+  padding: .5em 1em;
   background-color: DarkSlateGray;
 }
 
+.folios h2 {
+  margin-bottom: .5em;
+  color: #e7e0d6;  /* page clip color in image */
+}
+
 .folios footer {
-  max-width: 100ch;
   font-size: .8em;
-  margin: 1em;
+  margin: 1em 0;
   padding: .5em;
   background-color: #e7e0d6;  /* page clip color in image */
 }
@@ -37,8 +44,9 @@ p {
   display: flex;  /* outer */
   flex-wrap: wrap;
   gap: 15px;
-  padding: 15px;
+  justify-content: space-evenly;
   align-items: stretch;
+  row-gap: 30px;
 }
 
 .foliogallery figure {
@@ -51,7 +59,7 @@ p {
 
 .foliogallery figcaption {
   flex: 1; /* as item of nested flexbox */
-  margin: 0 0 10px 0;
+  margin: 0 0 4px 0;
   width: 100%;
   word-wrap: break-word;
   hyphens: auto;
