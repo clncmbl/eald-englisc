@@ -1,0 +1,6 @@
+
+dl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, fit-content 170px);
+}
+

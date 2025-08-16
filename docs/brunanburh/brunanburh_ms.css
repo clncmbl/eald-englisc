@@ -1,0 +1,69 @@
+@import "main.css";
+
+#bodycontent {
+  font-size: 1.27rem;
+  max-width: fit-content;
+}
+
+#bodycontent > article > footer {
+  max-width: 80ch;
+  list-style-position: inside;
+  margin: 1em;
+}
+
+section {
+}
+
+p {
+  margin-bottom: 0.8em;
+  max-width: 80ch;
+}
+
+.folios {
+  margin: .5em;
+  padding-bottom: .2em;
+  background-color: DarkSlateGray;
+}
+
+.folios footer {
+  max-width: 100ch;
+  font-size: .8em;
+  margin: 1em;
+  padding: .5em;
+  background-color: #e7e0d6;  /* page clip color in image */
+}
+
+.foliogallery {
+  display: flex;  /* outer */
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 15px;
+  align-items: stretch;
+}
+
+.foliogallery figure {
+  flex: 0 0 min-content; /* as item of outer flexbox */
+  display: flex;  /* nested */
+  flex-direction: column;
+  width: min-content;
+  margin: 0;
+}
+
+.foliogallery figcaption {
+  flex: 1; /* as item of nested flexbox */
+  margin: 0 0 10px 0;
+  width: 100%;
+  word-wrap: break-word;
+  hyphens: auto;
+  background-color: #e7e0d6;  /* page clip color in image */
+  padding: .5em;
+}
+
+.foliogallery img {
+  display: block;
+  max-width: none;
+  height: auto;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+}
+

@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: unset;
+  padding: unset;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  background-color: ghostwhite;
+}
+
+#bodycontent {
+  background-color: #f1dab2;
+  max-width: 120ch;
+  margin: auto;
+}
+
+header {
+  background-color: SaddleBrown;
+  color: #f1dab2;
+}
+
+.sitetitle {
+  text-align: center;
+  padding-top: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+txt-gloss:not(:defined) {
+  /* See more at https://web.dev/articles/custom-elements-v1#prestyle */
+  opacity: 0;
+}
+

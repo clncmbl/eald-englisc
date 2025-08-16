@@ -1,0 +1,121 @@
+:root {
+  font-size: 1em;
+  box-sizing: border-box;
+
+  --hue: 31;
+  --sat: 42%;
+  --light: 87%;
+  --color1: hsl(var(--hue), var(--sat), var(--light));
+  --color2: hsl(calc(var(--hue) + 120), var(--sat), var(--light));
+  --color3: hsl(calc(var(--hue) + 240), var(--sat), var(--light));
+  --colorb1: hsl(31, 42%, 87%);
+  --colorb2: hsl(30, 48%, 75%);
+  --colorb3: hsl(27, 61%, 69%);
+  --colorb4: hsl(23, 31%, 54%);
+  --colorb5: hsl(19, 32%, 37%);
+
+  --colorbc1xxxx: hsl(210, 42%, 87%);
+  --colorbc1: hsl(56, 100%, 85%);
+}
+
+*, ::before, ::after {
+  box-sizing: inherit;
+  margin: unset;
+  padding: unset;  
+}
+
+body {
+  background-color: var(--colorb5);
+  margin: 8px;
+}
+
+#bodycontent {
+  max-width: 68em;
+  margin: 0 auto;
+  background-color: var(--colorb1);
+  padding: 0 1em;
+}
+
+h1, h2, h3, h4 {
+  margin: .5em 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+list-group {
+  display: flex;
+  flex-wrap: wrap;
+  /*background-color: var(--color);*/
+}
+
+list-group ol {
+  padding-left: 3em;
+}
+
+list-group li {
+  max-width: 30em;
+  line-height: 1.4;
+  padding: .2em 0;
+}
+
+list-group .idxhover {
+  background-color: var(--colorb3);
+}
+
+list-group .idxselected {
+  background-color: var(--colorbc1);
+}
+
+table {
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+
+/* Some classes set in javascript. */
+.oe-word {
+  font-weight: bold;
+}
+
+.oe {
+  font-family: sans-serif;
+  letter-spacing: .09em;
+  word-spacing: .12em;
+  /*font-size: .9rem;*/
+  line-height: 1.4;
+  background-color: var(--colorb2)
+}
+
+p.oe {
+  width: fit-content;
+  padding: .2em 1em;
+}
+
+pre.oe {
+  line-height: 1.8;
+  background-color: var(--colorb2);
+  margin: 0 auto 0 5em;
+  width: fit-content;
+  padding: 1em;
+}
+
+td {
+  border: 1px solid lightgray;
+  padding: .2em 1em;
+  vertical-align: baseline;
+}
+
