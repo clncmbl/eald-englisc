@@ -1,0 +1,35 @@
+Using Sievers as described by Tarasawa.  This
+is an exercise from Ch. 3 in Tarasawa.
+
+  x   x  /   / x C    x   /    / x  C
+Hwæt wē Gār-Dena      in geār-dagum
+
+ /    / \  x D1     /   x  / x  A
+þēod-cyninga      þrym gefrūnon,
+
+ x  x /-- /  x  C    /  x    /-- x   A
+hū þā æðelingas      ellen fremedon.
+
+x     /     / x   C      /--- x   /  x   A
+Oft Scyld Scēfing      sceaðena þrēatum,
+
+ /-- x   /  x  A     /---  \  x x  /   E
+monegum mǣgðum      meodo-setla oftēah.
+
+/  x x /   x  A     x  x  / x    /    B
+Egsode eorlas,     syððan ǣrest wearð
+
+ /    \     /  x  A2     x  x    /  x  x /  B
+fēa-sceaft funden:      hē þæs frōfre gebād,
+
+ /   x  x   /   x  A      /     \  x   /  E
+wēox under wolcnum,      weorð-myndum ðāh,
+
+x   x   x  /   \   A3    x x /    /  x   x C (See Tarasaw Appendix)
+oð þæt him ǣghwylc      þāra ymb-sittendra
+
+x x    /   / x C     / x    /  x A
+ofer hron-rāde      hȳran scolde,
+
+ /  x   /  x  A      x   x   /   /--    C
+gomban gyldan:      þæt wæs gōd cyning.
