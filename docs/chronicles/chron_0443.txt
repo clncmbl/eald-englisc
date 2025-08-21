@@ -1,0 +1,51 @@
+[See https://asc.jebbo.co.uk/a/a-L.html]
+TODO: Look at manuscript.
+
+Although the entries in this manuscript up to the year 891
+were initially written in the late 9th or early 10th century,
+according to https://asc.jebbo.co.uk/, this entry was likely
+written around 1100.
+
+⌜: Insert mode. Ctrl-v, u 231c
+⌝: Insert mode. Ctrl-v, u 231d
+
+443
+
+hand8:
+Her  ⌜sendon⌝ ⌜Brytwalas⌝ to Rome  ond  heom      fultomes
+Here  sent    Britons     to Rome  and  from them support
+
+⌜bædon⌝   wiþ      Pihtas, ac  hi   þar   næfdan  nanne,
+requested against  Picts,  but they there had not not any
+
+forþan ðe hi   fyrdedon wið     ⌜Ætla⌝  Huna cyningæ,
+because   they fought   against Attila  king of Huns
+
+ond  þa   sendon hi   to Anglum     ond
+and  then sent   they to the Angles and
+
+Angelcynnes æðelingas
+the nobles of the Anglian tribe
+
+ðæs ylcan ⌜bædon⌝.
+the same  requested.
+---
+⌜sendon⌝  Above "sendon" a later scribe has glossed with "ferdon
+ofer sæ".  That is the wording used in the MS E (The Peterborough
+Chronicle).
+
+⌜Brytwalas⌝
+
+⌜bædon⌝  Past for biddan.  For the second instance
+Manuscript A has "bædan" with an "o" written over the
+"a" as a correction.  The verb biddan uses the accusative
+for the person or other entity to which the request
+is made and uses the genitive for the thing requested.
+[[ So why "heom" (dative)? ]]
+
+⌜Ætla⌝  Above "Ætla" a later scribe has glossed with "Ætilan in
+lib. Petroburg" (at least, that's what jebbo claims it says; I
+am unable to read the manuscript well enough to say).  MS E
+(Peterborough) says "Ætlan".
+
++++
